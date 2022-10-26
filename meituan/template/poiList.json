@@ -1,0 +1,803 @@
+{
+    "status": 0,
+    "data": {
+        "totalCounts": 486,
+        "poiInfos": [
+            {
+                "poiId": 41099592,
+                "frontImg": "http://p0.meituan.net/600.600/xianfu/68842ee59d3b8eb1038057e1134905b2353849.jpg",
+                "title": "杨铭宇黄焖鸡米饭（创业路店）",
+                "avgScore": 3.9,
+                "allCommentNum": 837,
+                "address": "南山中心区",
+                "avgPrice": 18,
+                "dealList": [
+                    {
+                        "title": "黄焖鸡单人套餐，提供免费WiFi",
+                        "price": 18.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "黄焖鸡双人套餐，提供免费WiFi",
+                        "price": 23.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "黄焖排骨饭，建议单人使用",
+                        "price": 25.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "黄焖豆腐饭单人餐",
+                        "price": 17.5,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 40039347,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/885c4c62f6d8be09e9f6e813ae1ed934327036.jpg",
+                "title": "红荔村肠粉（海德店）",
+                "avgScore": 4.3,
+                "allCommentNum": 228,
+                "address": "南山中心区",
+                "avgPrice": 23,
+                "dealList": [
+                    {
+                        "title": "20元代金券1张，可叠加",
+                        "price": 19,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "八宝杂粮粥1份，提供免费WiFi",
+                        "price": 8.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "超满足双人餐D5",
+                        "price": 56,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "美味艇仔粥套餐D4，建议单人使用",
+                        "price": 19,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "3份3份营养早餐套餐D1，建议单人使用",
+                        "price": 45,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 6009362,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/cb5a788e57ed7cf7169158a46271f5e894943.png",
+                "title": "HEY YO喜乳酪（南山书城店）",
+                "avgScore": 4,
+                "allCommentNum": 407,
+                "address": "南山中心区",
+                "avgPrice": 30,
+                "dealList": [
+                    {
+                        "title": "鲜果时光蛋糕1个，约10英寸，圆形",
+                        "price": 259,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "50元代金券1张，除大蛋糕外全场通用",
+                        "price": 40,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "水果茶1份",
+                        "price": 22,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "8元代金券1张，仅适用于优格",
+                        "price": 1,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 50251804,
+                "frontImg": "http://p0.meituan.net/600.600/bbia/21d3818b3eb603027fabc86c2395e0771897360.jpg",
+                "title": "优品颂烘焙咖啡（南山店）",
+                "avgScore": 4.3,
+                "allCommentNum": 677,
+                "address": "南山中心区",
+                "avgPrice": 33,
+                "dealList": [
+                    {
+                        "title": "惊艳女神（动物淡奶油）1个，约2磅，圆形",
+                        "price": 188,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "奥特曼生日蛋糕2磅（动物奶油）1个，约8英寸，圆形",
+                        "price": 188,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "Y-105美少女战士（动物奶油）1个，约8英寸，圆形",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "果篮（动物淡奶油）1个，约2磅，方形",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "超值甜品4选1，提供免费WiFi",
+                        "price": 10.6,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "Y-110浪漫巧克力（动物奶油）1个，约8英寸，圆形",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "下午茶水果蛋糕A套餐1盒",
+                        "price": 16,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "佩奇一家8+6英寸(动植物混合奶油1个，约3磅，圆形",
+                        "price": 194,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "火烈鸟加高款约2磅（动物奶油）1个，约6英寸，圆形",
+                        "price": 188,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "蛋糕2选1,约8英寸",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "公司庆祝蛋糕3选1（动植物混合奶油）1个，约4磅，方形",
+                        "price": 278,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "托马斯（动物奶油）1个，约8英寸，圆形",
+                        "price": 168,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "天鹅王冠蛋糕（动物奶油）1个，约8英寸，圆形",
+                        "price": 168,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "王冠一点红（动物淡奶油）1个，约8英寸，圆形",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "蛋糕4选1,约8英寸，圆形",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "KT猫蛋糕（动物奶油）1个，约8英寸，圆形",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "布朗熊&可妮兔（动物奶油）1个，约8英寸，圆形",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "三层庆祝蛋糕12+8+6英寸（动植物混合奶油）1个，约7磅，圆形三层",
+                        "price": 453,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "红丝绒草莓2磅（动物奶油）1个，约8英寸，圆形",
+                        "price": 178,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 42147212,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/749701859_1652751982055.jpeg",
+                "title": "渝月（南山海雅缤纷广场店）",
+                "avgScore": 4.2,
+                "allCommentNum": 2688,
+                "address": "南山中心区",
+                "avgPrice": 65,
+                "dealList": [
+                    {
+                        "title": "50元代金券1张，可叠加",
+                        "price": 46,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "鸡丝凉面1份，提供免费WiFi",
+                        "price": 9.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "工作日小聚四人餐",
+                        "price": 348,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "渝月团圆6人餐【深圳乐购消费券】",
+                        "price": 506,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元代金券1张，可叠加",
+                        "price": 95,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "招牌经典二人餐，提供免费WiFi",
+                        "price": 208,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 6637937,
+                "frontImg": "http://p1.meituan.net/600.600/biztone/861ba8c73f51912c986c01531067725d99180.jpg",
+                "title": "紫燕百味鸡（海德二道店）",
+                "avgScore": 4.3,
+                "allCommentNum": 2325,
+                "address": "南山中心区",
+                "avgPrice": 27,
+                "dealList": [
+                    {
+                        "title": "孜然锁骨（气调装）1份",
+                        "price": 16.4,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【休闲必备】爪爪系列4选1",
+                        "price": 9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "藤椒板鸭1份",
+                        "price": 27.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【520】香辣休闲1份",
+                        "price": 12.6,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "芙蓉鹅1份",
+                        "price": 28.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "脆香莲藕（气调装）1份",
+                        "price": 8.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "霸王鸭脖（气调装）1份",
+                        "price": 16.7,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "单品3选1",
+                        "price": 19.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "脆香莲藕1份",
+                        "price": 7.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "45元代金券1张，全场通用",
+                        "price": 39.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元代金券1张，全场通用",
+                        "price": 91.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "藤椒鸡(中份)1份",
+                        "price": 28.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【经典卤味集合】夫妻肺片+香辣卤啃1份",
+                        "price": 45.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "藤椒板鸭1份",
+                        "price": 18,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "卤翅系列5选1",
+                        "price": 12.6,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【520】紫燕百味鸡美食疗愈夫妻肺片1份",
+                        "price": 27.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "海带丝/云丝1份",
+                        "price": 8.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "77元代金券1张，全场通用",
+                        "price": 66,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "五香猪头肉1份",
+                        "price": 24.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "单品3选1",
+                        "price": 17.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【520】素菜任选1份",
+                        "price": 8.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "藤椒鸡+海带丝套餐1份",
+                        "price": 35.5,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 192496701,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/ecd382e7cf3f5cdfd118d85e80654b45317186.png",
+                "title": "至尊比萨（南山旗舰店）",
+                "avgScore": 4.2,
+                "allCommentNum": 19,
+                "address": "南山中心区",
+                "avgPrice": 30,
+                "dealList": [
+                    {
+                        "title": "【520】超值甜蜜约会2人餐",
+                        "price": 44.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "一人食比萨套餐（8英寸）",
+                        "price": 38.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "小吃4选1，提供免费WiFi",
+                        "price": 9.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "超级单人餐，提供免费WiFi",
+                        "price": 36.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "六六大顺多人分享套餐",
+                        "price": 168,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "M经典比萨4人套餐",
+                        "price": 108,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "M经典比萨3人套餐",
+                        "price": 69.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "10英寸榴莲比萨1份",
+                        "price": 38.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "8英寸双拼比萨1份",
+                        "price": 28.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "单人焗饭套餐，提供免费WiFi",
+                        "price": 26.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "超值一人食餐，提供免费WiFi",
+                        "price": 24.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【520】幸福甜蜜亲子三人餐",
+                        "price": 98,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【520】好友欢聚四人餐",
+                        "price": 138,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "2份意面2选1，提供免费WiFi",
+                        "price": 29,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "比萨4选1，提供免费WiFi",
+                        "price": 45,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【520】爱自己▪ 一人食套餐",
+                        "price": 29.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "8英寸奶香芝士条1份",
+                        "price": 19.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "大胃王分享套餐，建议2人使用",
+                        "price": 45.9,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 69582484,
+                "frontImg": "http://p1.meituan.net/600.600/biztone/69582484_1650864702203.jpeg",
+                "title": "海之恋日料小酒馆（保利店）",
+                "avgScore": 4.3,
+                "allCommentNum": 1177,
+                "address": "南山中心区",
+                "avgPrice": 81,
+                "dealList": [
+                    {
+                        "title": "人气双人套餐，包间免费",
+                        "price": 138,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "一人食午间套餐，提供免费WiFi",
+                        "price": 38,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元代金券1张，可叠加",
+                        "price": 88,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "50元代金券1张，可叠加",
+                        "price": 45,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "豪华招牌双人套餐",
+                        "price": 188,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 1482029796,
+                "frontImg": "http://p0.meituan.net/600.600/merchant/be641c2a3afd39828fc08d159216b6ec32778.jpg",
+                "title": "7号饺子·手工现包好饺子（荔林店）",
+                "avgScore": 4.6,
+                "allCommentNum": 29,
+                "address": "南山中心区",
+                "avgPrice": 34,
+                "dealList": [
+                    {
+                        "title": "饺子3选1套餐，建议单人使用",
+                        "price": 33.4,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "陕西凉皮+西安肉夹馍，建议单人使用",
+                        "price": 22.7,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "水饺单人套餐，提供免费WiFi",
+                        "price": 19.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "30元代金券1张，全场通用",
+                        "price": 25.8,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 610610,
+                "frontImg": "https://img.meituan.net/600.600/msmerchant/843319260f91e46d92d36bece4a7f273325067.jpg",
+                "title": "红叶苑日本料理·活鳗·活鱼",
+                "avgScore": 4.3,
+                "allCommentNum": 200,
+                "address": "南山中心区",
+                "avgPrice": 117,
+                "dealList": [
+                    {
+                        "title": "活鳗单人午市套餐",
+                        "price": 118,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "300元代金券1张",
+                        "price": 240,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "豪华双人套餐，提供免费WiFi",
+                        "price": 288,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "单人工作日套餐，提供免费WiFi",
+                        "price": 45,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 42340971,
+                "frontImg": "http://p1.meituan.net/600.600/biztone/7e26bce64b15caeeac719289a4831c6c95638.jpg",
+                "title": "太清凉茶甜品（深大店）",
+                "avgScore": 4.4,
+                "allCommentNum": 625,
+                "address": "南山中心区",
+                "avgPrice": 19,
+                "dealList": [
+                    {
+                        "title": "黑糯米QQ爱恋1份",
+                        "price": 15.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "芋圆桃胶炖椰奶1份",
+                        "price": 15.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "50元代金券1张，可叠加3张",
+                        "price": 40,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "杨枝甘露1份，提供免费WiFi",
+                        "price": 16.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "仙草系列3选1，提供免费WiFi",
+                        "price": 9.9,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 40511697,
+                "frontImg": "http://p1.meituan.net/600.600/biztone/2011610d463a0ea6e071fc2da9f9d5c8146333.jpg",
+                "title": "原味主张椰子鸡（天利名城店）",
+                "avgScore": 4,
+                "allCommentNum": 7708,
+                "address": "南山中心区",
+                "avgPrice": 92,
+                "dealList": [
+                    {
+                        "title": "原味主张8-10人套餐",
+                        "price": 798,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元代金券1张，可叠加3张",
+                        "price": 68,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "特惠4人餐，提供免费WiFi",
+                        "price": 358,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元春节专享1张，可叠加",
+                        "price": 93,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "原味主张6人套餐",
+                        "price": 438,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "2-3人套餐，提供免费WiFi",
+                        "price": 228,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "网红椰浆鸡2-3人套餐",
+                        "price": 308,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 600733,
+                "frontImg": "http://p0.meituan.net/600.600/ugcpic/9a29f63c3a5427988ace6e14c75b5e21",
+                "title": "顺品甜品（深大店）",
+                "avgScore": 4.6,
+                "allCommentNum": 1199,
+                "address": "南山中心区",
+                "avgPrice": 26,
+                "dealList": [
+                    {
+                        "title": "招牌甜品套餐，建议单人使用",
+                        "price": 33.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "蛋糕7选1,约2磅，圆形",
+                        "price": 138,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "美丽流氓（千层四拼）1个，约2磅，圆形",
+                        "price": 198,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "千层榴芒双拼蛋糕1个，约2磅，圆形",
+                        "price": 188,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "甜品4选1",
+                        "price": 24,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "蛋糕7选1,约1磅，圆形",
+                        "price": 98,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 4417576,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/697eb3cfa7427ffc6ab2a850c0906e773889988.png",
+                "title": "窑鸡王（南光店）",
+                "avgScore": 4.3,
+                "allCommentNum": 115,
+                "address": "南山中心区",
+                "avgPrice": 57,
+                "dealList": [
+                    {
+                        "title": "招牌窑鸡（整只）1份",
+                        "price": 69.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【招牌推荐】现烤窑鸡双人套餐",
+                        "price": 139,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "招牌窑鸡（半只）1份",
+                        "price": 39.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "卤香藕片（香辣）1份",
+                        "price": 6.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【单人打卡套餐】",
+                        "price": 56.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【招牌特惠双人套餐】",
+                        "price": 89.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "【招牌推荐】现烤窑鸡单人套餐",
+                        "price": 82.5,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 41101406,
+                "frontImg": "http://p1.meituan.net/600.600/biztone/1743903248_1644992191632.jpeg",
+                "title": "CoCo都可（海岸城天利店）",
+                "avgScore": 4.3,
+                "allCommentNum": 1893,
+                "address": "南山中心区",
+                "avgPrice": 12,
+                "dealList": [
+                    {
+                        "title": "W-1份轻奶茶西米露/中杯1杯",
+                        "price": 8,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            }
+        ]
+    }
+}

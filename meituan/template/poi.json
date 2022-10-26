@@ -1,0 +1,782 @@
+{
+    "$meta": {
+        "knbJS": "//s0.meituan.net/bs/knb/v1.3.19/knb.js",
+        "adunionJS": "//h5.dianping.com/app/adu-track/adunion-track.js",
+        "uuid": "b0076377cb5e418dabcc.1652879170.1.0.0",
+        "userId": "265087521",
+        "cityId": 1,
+        "cityName": "北京",
+        "userName": "雪糕啊哈哈",
+        "pageId": "c_meishi_qcuimw0m",
+        "valLab": "{\"poi_id\":\"1547708\"}",
+        "title": "曼哈顿•情侣•牛扒•西餐厅_曼哈顿鱼市MFM电话地址_营业时间-北京美团网"
+    },
+    "pageId": "c_meishi_qcuimw0m",
+    "valLab": {
+        "poi_id": "1547708"
+    },
+    "loadQQMapScript": true,
+    "title": "曼哈顿•情侣•牛扒•西餐厅_曼哈顿鱼市MFM电话地址_营业时间-北京美团网",
+    "description": "北京美团网提供2022最新曼哈顿•情侣•牛扒•西餐厅电话,营业时间,地址,以及曼哈顿•情侣•牛扒•西餐厅人均价格,优惠菜单,招牌菜怎么样.查看曼哈顿•情侣•牛扒•西餐厅团购信息,了解店铺环境/服务怎么样.",
+    "keyword": "曼哈顿•情侣•牛扒•西餐厅,曼哈顿鱼市MFM电话,曼哈顿鱼市MFM地址,曼哈顿鱼市MFM营业时间",
+    "detailInfo": {
+        "poiId": 1547708,
+        "name": "曼哈顿•情侣•牛扒•西餐厅",
+        "avgScore": 4.1,
+        "address": "南山区文心五路33号海岸城大厦东座新桃园酒店3楼",
+        "phone": "0755-86268888",
+        "openTime": "周一至周日 12:00-20:30",
+        "extraInfos": [
+            {
+                "iconUrl": "http://p0.meituan.net/codeman/551290739062eda37e52999e2315f50c1887.png",
+                "text": "提供wifi"
+            }
+        ],
+        "hasFoodSafeInfo": true,
+        "longitude": 113.937656,
+        "latitude": 22.518296,
+        "avgPrice": 88,
+        "brandId": 2885546,
+        "brandName": "曼哈顿鱼市MFM",
+        "showStatus": 1,
+        "isMeishi": true
+    },
+    "photos": {
+        "frontImgUrl": "http://p0.meituan.net/merchant/9527901fb41cb8d045330298997a8f3e1269307.png@600w_600h_1l",
+        "albumImgUrls": [
+            "https://img.meituan.net/msmerchant/3df80ce68c4c814c6ed4f29c012e0359126203.jpg@600w_600h_1l",
+            "http://p1.meituan.net/deal/ad3ffebb2479bf30950d018ee77918c4198635.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/09f775e35d5d2c8637ad6c7bd98c20fd109525.jpg@600w_600h_1l",
+            "http://p1.meituan.net/deal/7d75b00c4dd59b4184312b00c9491b68218866.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/77da56c19518d57857019af8de557d4f53693.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/__48749280__1425522.jpg@600w_600h_1l",
+            "http://p1.meituan.net/deal/201301/14/115118_6758387.jpg@600w_600h_1l",
+            "http://p0.meituan.net/deal/3687c8cbe10053180d5fd2b11a38d0d5219114.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/e18f276881821be4d97ab77acaa325c553904.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/463a99221370c449625f153ef396c3b8118139.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/6072baf9735feddaaadec8bbbc893f3a146528.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/a4b280fb8e30a4faedd6c1034359e46669820.jpg@600w_600h_1l",
+            "http://p0.meituan.net/deal/b89c3933f07cd8b6fa7ab907e387e8f1199954.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/48960b5675f31869e3e2bb1101cd555987685.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/06757f04be0b87d033a0d66107a55d92513245.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/afa6dce957c32acac2c343ad6bf0ba7082382.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/__42094161__6067875.jpg@600w_600h_1l",
+            "http://p1.meituan.net/poi/71e824d4f1e31bd051c5f33eec262cde68072.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/d91563e4fbfe466e5d4e61d6683ec16a854831.png@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/9738c4b66411ac2b44dfb0239a106cac216297.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/7e8b025797c057f44ca1275aff8b155e5481789.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/07e0a518661f663c0f27fa70ad1bdca09197158.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/60e4ed91f5678801859c91c9d30001ce7642893.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/33fdff6dfdfb3a6c8453e1c532bb942e1004427.jpg@600w_600h_1l",
+            "http://p1.meituan.net/deal/0f90e901708fc9db2dc2a09a0f3ce2a5312716.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/__42094151__9840479.jpg@600w_600h_1l",
+            "http://p0.meituan.net/deal/de48f37fdb161c35bf10c995fa65b25d253593.jpg@600w_600h_1l",
+            "http://p1.meituan.net/dealwatera/f9a34fa7cb7f777bc7ba06c1212077ca77622.jpg@600w_600h_1l",
+            "http://p0.meituan.net/deal/715fde3ce0ff1433a257350c9e4cf07f307310.jpg@600w_600h_1l",
+            "http://p1.meituan.net/dealwatera/0359a3bd2aa06ee3b99cd9cbde64414873947.jpg@600w_600h_1l",
+            "http://p0.meituan.net/dealwatera/48dd12dba4c0b2391891be22823c9fbc66967.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/393ea3c8f2e7bab9dc122d1d19067de0164849.jpg@600w_600h_1l",
+            "http://p1.meituan.net/dealwatera/72256569f50f8e87479ee9c002f825ae82558.jpg@600w_600h_1l",
+            "http://p0.meituan.net/dealwatera/253d7e9d6b34c40ad79e07137d472b3e79058.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/70e82f2d0bfa5b4977447b201db7b133106329.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/8cf2e7a799c75f49cdaa01b52b5efe0d98351.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/3c5659592a848e50f92b62c441f19886133252.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/97764a40ba2eba97dfc61d05efe026a1101682.jpg@600w_600h_1l",
+            "http://p1.meituan.net/dealwatera/8c2ac9b5ff5d5c5c96b1a0f879e2a76d81025.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/f8351ea0361fa72e364ade66161f5e8b72828.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/5497a91b6d4633717954566cdab257f01011723.png@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/d91563e4fbfe466e5d4e61d6683ec16a854831.png@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/246ab8fdb2839bce0dcdd466b32a6a39397164.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/700e2c5e14c2b0a9beeb466c9aba2087565508.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/59a2c2254f430119bb97e3c108799eb7518182.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/508edde610eae70c5eca19c7959f802c489300.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/7540bdc6cb3b25bfde414b0b31e567f51089096.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/f919cd6ac62a5fbe4bc4d998f4523d65496703.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/7d2d8826b6b7e6df6bf990afed96a6e587052.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/ee0ce4d62641d5b2b6b21ccdef635107122227.jpg@600w_600h_1l",
+            "http://p1.meituan.net/shaitu/9fa7ca13faa0d8a4936a691029f946c3124749.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/688221dd7a5b61e8d26c36638bb13f9a106655.jpg@600w_600h_1l",
+            "http://p0.meituan.net/shaitu/5e37f5de9f7a1f6b08029a77ac61a85847546.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/2815e2f7c0b7c92e13daed54ae026f901483015.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/10bd783d4856dcaa9db73dc7ad1890f0296600.jpg@600w_600h_1l",
+            "https://img.meituan.net/msmerchant/326a0a732375f4f965127f6d68314b312719808.jpg@600w_600h_1l",
+            "https://p0.meituan.net/ugcshaitu/76fafef0eff4cf5c8945a737467be7e6192817.jpg@600w_600h_1l",
+            "https://p0.meituan.net/ugcshaitu/94105ef830bdd62c52aa270c9539cb07196532.jpg@600w_600h_1l",
+            "https://p0.meituan.net/ugcshaitu/104f55a9e25c0090ea9e47aa5202844f192915.jpg@600w_600h_1l",
+            "https://p0.meituan.net/ugcshaitu/5daf185137c85f57f670c43f0f7eeff4194725.jpg@600w_600h_1l",
+            "https://p0.meituan.net/ugcshaitu/23b0996cace702794a918ed8f1524d35194998.jpg@600w_600h_1l",
+            "https://p1.meituan.net/ugcshaitu/c0f72fa1ba9d9090cdf61551cc0cf198178030.jpg@600w_600h_1l",
+            "https://p0.meituan.net/ugcshaitu/db1387e1aaf9f8971f13bceaff36750f195054.jpg@600w_600h_1l",
+            "https://p0.meituan.net/ugcshaitu/a6c19f7dd7a3d9280eec7fb907b83333193237.jpg@600w_600h_1l",
+            "https://qcloud.dpfile.com/pc/ZwuRXVDkFlLhxL5Tk6iy8ZXfXMyqsTjt7idz42AXhRZYFzPPQGYv9b-Lsh5Pb6gH5g_3Oo7Z9EXqcoVvW9arsw.jpg"
+        ]
+    },
+    "recommended": [
+        {
+            "id": "67301919",
+            "name": "法式蘑菇汤",
+            "price": 28,
+            "frontImgUrl": "http://p0.meituan.net/shaitu/ecbf2c079540c3fc4859417767dc1ccf199992.jpg@600w_600h_1l"
+        },
+        {
+            "id": "70160521",
+            "name": "美国谷饲西冷扒",
+            "price": 118,
+            "frontImgUrl": "https://qcloud.dpfile.com/pc/U6vTmgPv1CryjjE2lQ1D77bQKmvNkQmiOdlkPAKge-yjG7OiINBzGv7XbQtKgQhD5g_3Oo7Z9EXqcoVvW9arsw.jpg"
+        },
+        {
+            "id": "239245399",
+            "name": "芒果慕斯",
+            "price": 38,
+            "frontImgUrl": "http://p1.meituan.net/wmproduct/a067e234e9de97a214e20c1ef42c2442156407.jpg@600w_600h_1l"
+        },
+        {
+            "id": "78738475",
+            "name": "法式香草羊扒",
+            "price": 88,
+            "frontImgUrl": "http://p0.meituan.net/deal/51104dfeea60ea271ae51948753bfcad38200.jpg@600w_600h_1l"
+        },
+        {
+            "id": "93030548",
+            "name": "俄式罗宋汤",
+            "price": 28,
+            "frontImgUrl": "http://p0.meituan.net/xianfu/a19768358d0976eda36e92e647747fbb50091.jpg@600w_600h_1l"
+        },
+        {
+            "id": "78738477",
+            "name": "香煎法式鸡扒",
+            "price": 58,
+            "frontImgUrl": "http://p0.meituan.net/wmproduct/de4b9fb99bccc2eb22e42741fd8a6c20163617.jpg@600w_600h_1l"
+        },
+        {
+            "id": "87313631",
+            "name": "咖啡",
+            "price": 18,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "67301920",
+            "name": "港式猪扒",
+            "price": 58,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "475705160",
+            "name": "吞拿鱼沙拉",
+            "price": 58,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "249023106",
+            "name": "自助水果",
+            "price": 88,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "233655442",
+            "name": "美国谷饲菲力牛扒",
+            "price": 108,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "235845988",
+            "name": "健康蔬菜沙拉",
+            "price": 38,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "150395931",
+            "name": "荔枝玫瑰花果茶",
+            "price": 28,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "61586132",
+            "name": "蒜香法包",
+            "price": 18,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "153672027",
+            "name": "黑椒鸡扒",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "150395924",
+            "name": "法式鹅肝配法包",
+            "price": 98,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "194740868",
+            "name": "黑森林",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "158917076",
+            "name": "奶油蘑菇汤",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "73020080",
+            "name": "蜂蜜柚子茶",
+            "price": 28,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "247073696",
+            "name": "西冷牛扒",
+            "price": 118,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "233655450",
+            "name": "提拉米苏",
+            "price": 15,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "150395932",
+            "name": "奶茶",
+            "price": 25,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "64437141",
+            "name": "橄榄油金枪鱼田园沙拉",
+            "price": 28,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "156030518",
+            "name": "面包",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "150395935",
+            "name": "水果沙拉",
+            "price": 35,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "153672026",
+            "name": "意大利粉",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "58727865",
+            "name": "美国谷饲牛肋骨扒",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "160949935",
+            "name": "美国谷饲牛仔骨",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "150395934",
+            "name": "公司三文治",
+            "price": 38,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "75886138",
+            "name": "桃园水果茶",
+            "price": 28,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "61586134",
+            "name": "鲜果沙拉",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "326287620",
+            "name": "牛仔骨",
+            "price": 118,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "90174223",
+            "name": "法式炸薯条",
+            "price": 28,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "233655444",
+            "name": "美国谷饲T骨牛排",
+            "price": 108,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "209315690",
+            "name": "曼哈顿杂扒",
+            "price": 128,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "209315698",
+            "name": "鲜榨西瓜汁",
+            "price": 25,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "58727866",
+            "name": "茄汁鱼柳配肉酱意粉",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "73020079",
+            "name": "玉米忌廉汤",
+            "price": 25,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "475684311",
+            "name": "香煎深海鳕鱼扒",
+            "price": 158,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "233655440",
+            "name": "美国谷饲肉眼扒",
+            "price": 98,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "70160520",
+            "name": "汽水",
+            "price": 15,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "157223826",
+            "name": "蒜蓉餐包",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "93030550",
+            "name": "牛小扒皇",
+            "price": 168,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "70160519",
+            "name": "冬菇排骨饭",
+            "price": 45,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "209315692",
+            "name": "金汤力",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "163405970",
+            "name": "红葡萄酒",
+            "price": 0,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "475702927",
+            "name": "真空包装深海三文鱼扒",
+            "price": 168,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "235846001",
+            "name": "精选澳洲西冷扒",
+            "price": 158,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "93030549",
+            "name": "四季田园沙拉",
+            "price": 28,
+            "frontImgUrl": ""
+        },
+        {
+            "id": "90174224",
+            "name": "澳大利亚肉眼扒",
+            "price": 168,
+            "frontImgUrl": ""
+        }
+    ],
+    "crumbNav": [
+        {
+            "title": "深圳美团",
+            "url": "http://sz.meituan.com/"
+        },
+        {
+            "title": "深圳美食",
+            "url": "http://sz.meituan.com/meishi/"
+        },
+        {
+            "title": "深圳异域料理",
+            "url": "http://sz.meituan.com/meishi/c400500/"
+        }
+    ],
+    "prefer": [
+        {
+            "itemId": "170640427",
+            "title": "晓寿司•日本料理（鲁谷店）",
+            "imgUrl": "http://p1.meituan.net/w.h/biztone/a407ec7d1ae86847367dedd097d181f9243203.png",
+            "score": "4.8",
+            "consumeNum": null,
+            "areaName": "鲁谷",
+            "lowPrice": "47.5",
+            "saleNum": null,
+            "commentNum": 403,
+            "detailUrl": "",
+            "firstCate": [
+                1,
+                20557
+            ],
+            "avgPrice": 65
+        },
+        {
+            "itemId": "41302118",
+            "title": "奥康国际跆拳道（回龙观馆）",
+            "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/1ca0911d885d4c35ed0ea464aeec346f421925.jpg",
+            "score": "4.3",
+            "consumeNum": null,
+            "areaName": "回龙观",
+            "lowPrice": "9.9",
+            "saleNum": null,
+            "commentNum": 13,
+            "detailUrl": "",
+            "firstCate": [
+                20285
+            ],
+            "avgPrice": 0
+        },
+        {
+            "itemId": "2417929",
+            "title": "雅逸知足会所（望京店）",
+            "imgUrl": "http://p0.meituan.net/w.h/joymerchant/-5086111465229247627.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "望京",
+            "lowPrice": "289.0",
+            "saleNum": null,
+            "commentNum": 4041,
+            "detailUrl": "",
+            "firstCate": [
+                2,
+                20611
+            ],
+            "avgPrice": 197
+        },
+        {
+            "itemId": "192863854",
+            "title": "Yuki·优琪美甲美睫纹绣护肤（宝盛里店）",
+            "imgUrl": "http://p0.meituan.net/w.h/dpmerchantpic/f0aacd7fd02666eb533e2116d3309784159365.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "清河",
+            "lowPrice": "48.0",
+            "saleNum": null,
+            "commentNum": 268,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 233
+        },
+        {
+            "itemId": "192847708",
+            "title": "香薇妮丝女子减肥院（枣园旗舰店）",
+            "imgUrl": "http://p0.meituan.net/w.h/dpmerchantpic/b5f15a44b330986fc99872e9e8888186766644.png",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "黄村",
+            "lowPrice": "9.9",
+            "saleNum": null,
+            "commentNum": 147,
+            "detailUrl": "",
+            "firstCate": [
+                22,
+                20630
+            ],
+            "avgPrice": 76
+        },
+        {
+            "itemId": "52123929",
+            "title": "ONLY造型（银河SOHO店）",
+            "imgUrl": "https://p0.meituan.net/w.h/wedding/260340e0e749a7ede6d55bd16dce5f2c177534.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "朝阳门",
+            "lowPrice": "35.0",
+            "saleNum": null,
+            "commentNum": 1020,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 153
+        },
+        {
+            "itemId": "291334",
+            "title": "味多美蛋糕（紫金数码店）",
+            "imgUrl": "http://p0.meituan.net/w.h/biztone/1444238998_1641535147495.jpeg",
+            "score": "4.3",
+            "consumeNum": null,
+            "areaName": "双榆树",
+            "lowPrice": "1.0",
+            "saleNum": null,
+            "commentNum": 1227,
+            "detailUrl": "",
+            "firstCate": [
+                1,
+                20557
+            ],
+            "avgPrice": 15
+        },
+        {
+            "itemId": "119900718",
+            "title": "A-X-H SALON（上地辉煌国际店）",
+            "imgUrl": "http://p1.meituan.net/w.h/merchantpic/cbe573c14c4fb1dc7b77b7b3e2f0e834150499.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "上地",
+            "lowPrice": "38.0",
+            "saleNum": null,
+            "commentNum": 910,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 187
+        },
+        {
+            "itemId": "73233229",
+            "title": "Mrs.Lee 半永久工作室",
+            "imgUrl": "http://p0.meituan.net/w.h/ugcpic/cc815ef6b77ceef1b9c388a9dd327839",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "望京",
+            "lowPrice": "10.0",
+            "saleNum": null,
+            "commentNum": 478,
+            "detailUrl": "",
+            "firstCate": [
+                22
+            ],
+            "avgPrice": 315
+        },
+        {
+            "itemId": "126960268",
+            "title": "梵熙国际风格短发",
+            "imgUrl": "http://p0.meituan.net/w.h/wedding/ff2a33d83a51d6f7308b3f4fefa9623c679574.png",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "公主坟/万寿路",
+            "lowPrice": "35.0",
+            "saleNum": null,
+            "commentNum": 768,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 57
+        },
+        {
+            "itemId": "6824520",
+            "title": "黄记煌三汁焖锅（安河桥华联店）",
+            "imgUrl": "https://img.meituan.net/w.h/msmerchant/282bc9a9d716369bb62e3467a1eb383f1540216.jpg",
+            "score": "4.4",
+            "consumeNum": null,
+            "areaName": "颐和园",
+            "lowPrice": "95.0",
+            "saleNum": null,
+            "commentNum": 2145,
+            "detailUrl": "",
+            "firstCate": [
+                1
+            ],
+            "avgPrice": 79
+        },
+        {
+            "itemId": "109544086",
+            "title": "唯甲汇通州万达店",
+            "imgUrl": "https://p0.meituan.net/w.h/merchantpic/d4931bba8c82b0ef87e75edae838dd711498968.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "通州北苑",
+            "lowPrice": "9.9",
+            "saleNum": null,
+            "commentNum": 503,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 179
+        },
+        {
+            "itemId": "150660331",
+            "title": "Visual Salon 视觉造型·e万造型（顺义店）",
+            "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/440fcdd49508f46961ce38c0ad4c807a488147.png",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "顺义",
+            "lowPrice": "28.0",
+            "saleNum": null,
+            "commentNum": 2116,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 254
+        },
+        {
+            "itemId": "288780",
+            "title": "老诚一锅（东大桥店）",
+            "imgUrl": "http://p0.meituan.net/w.h/merchant/6f859b037c8e5f04486468d49ca8100d184555.jpg",
+            "score": "4.1",
+            "consumeNum": null,
+            "areaName": "东大桥",
+            "lowPrice": "90.0",
+            "saleNum": null,
+            "commentNum": 2781,
+            "detailUrl": "",
+            "firstCate": [
+                1
+            ],
+            "avgPrice": 97
+        },
+        {
+            "itemId": "186315294",
+            "title": "紫光园（日坛店）",
+            "imgUrl": "http://p1.meituan.net/w.h/biztone/186315294_1651919376909.jpeg",
+            "score": "4.7",
+            "consumeNum": null,
+            "areaName": "朝外大街",
+            "lowPrice": "1.0",
+            "saleNum": null,
+            "commentNum": 1008,
+            "detailUrl": "",
+            "firstCate": [
+                1,
+                20557
+            ],
+            "avgPrice": 69
+        }
+    ],
+    "dealList": {
+        "deals": [
+            {
+                "id": 613182863,
+                "frontImgUrl": "http://p1.meituan.net/208.126/deal/320460da08a62d0983469334fa45b7f6201994.jpg@155_0_468_468a%7C267h_267w_2e_90Q",
+                "title": "商务午餐套餐（1人）",
+                "soldNum": 0,
+                "price": 58,
+                "value": 275.8
+            },
+            {
+                "id": 56458393,
+                "frontImgUrl": "http://p0.meituan.net/208.126/deal/62479420081640db6a388cdddcd37d1e246757.jpg@333_0_1334_1334a%7C267h_267w_2e_90Q",
+                "title": "单人半自助套餐，提供免费WiFi",
+                "soldNum": 0,
+                "price": 138,
+                "value": 391.8
+            },
+            {
+                "id": 56698389,
+                "frontImgUrl": "http://p0.meituan.net/208.126/deal/b6bb6654e58e8df60f7f152ea29e78f6161310.jpg@81_0_633_633a%7C267h_267w_2e_90Q",
+                "title": "321玫瑰情侣套餐",
+                "soldNum": 0,
+                "price": 321,
+                "value": 864.1
+            },
+            {
+                "id": 56698436,
+                "frontImgUrl": "http://p0.meituan.net/208.126/deal/b0c25c0f5f923421a0c4d6f0216cd65546962.jpg@82_0_495_495a%7C267h_267w_2e_90Q",
+                "title": "2022.2.22用爱堆砌情侣套餐",
+                "soldNum": 0,
+                "price": 520,
+                "value": 1002
+            },
+            {
+                "id": 56458506,
+                "frontImgUrl": "http://p0.meituan.net/208.126/deal/3df80ce68c4c814c6ed4f29c012e0359126203.jpg@267h_267w_2e_90Q",
+                "title": "双人半自助牛排套餐",
+                "soldNum": 0,
+                "price": 258,
+                "value": 617.8
+            },
+            {
+                "id": 672834957,
+                "frontImgUrl": "http://p1.meituan.net/208.126/deal/f1409b2f38f9e3a7b92994237edb5f578330831.png@537_0_1655_1655a%7C267h_267w_2e_90Q",
+                "title": "单人铁板牛排套餐",
+                "soldNum": 0,
+                "price": 69.9,
+                "value": 110.3
+            },
+            {
+                "id": 617567799,
+                "frontImgUrl": "http://p0.meituan.net/208.126/deal/0ab25abcc84ad0c5b697bbcc53931cb2175549.jpg@270_0_1080_1080a%7C267h_267w_2e_90Q",
+                "title": "承接生日宴、公司年会、婚宴、谢师宴等自助餐预定（10人起）",
+                "soldNum": 0,
+                "price": 98,
+                "value": 208
+            },
+            {
+                "id": 613179494,
+                "frontImgUrl": "http://p0.meituan.net/208.126/deal/17f60878cda9dde16b37c066d802313f171998.jpg@133_0_533_533a%7C267h_267w_2e_90Q",
+                "title": "春节温馨家庭套餐（4-6人）",
+                "soldNum": 0,
+                "price": 568,
+                "value": 1198.8
+            }
+        ],
+        "vouchers": [
+            {
+                "id": 56638892,
+                "frontImgUrl": "http://p1.meituan.net/208.126/deal/aef03714808eb10493d095e9f09c941c21637.jpg@49_0_301_301a%7C267h_267w_2e_90Q",
+                "title": "20元代金券1张",
+                "soldNum": 0,
+                "price": 1,
+                "value": 20
+            },
+            {
+                "id": 691078556,
+                "frontImgUrl": "http://p1.meituan.net/208.126/deal/aef03714808eb10493d095e9f09c941c21637.jpg@49_0_301_301a%7C267h_267w_2e_90Q",
+                "title": "100元代金券1张，可叠加2张",
+                "soldNum": 0,
+                "price": 80,
+                "value": 100
+            }
+        ],
+        "iconUrl": "http://p1.meituan.net/codeman/31eac2c905f5be14ce80654d9508e720832.png"
+    },
+    "poiId": "1547708",
+    "userId": "265087521",
+    "ci": "1",
+    "uuid": "b0076377cb5e418dabcc.1652879170.1.0.0",
+    "comHeader": "<link rel=\"stylesheet\" type=\"text/css\" href=\"//s0.meituan.net/bs/fe-web-meituan/5058856/css/com_header.css\"/><header class=\"com-header\"><div class=\"header-bar\"><div class=\"header-content clearfix\"><div class=\"header-bar-position\"><span class=\"header-icon icon-header_location\"></span><span class=\"current-city\">北京</span><a class=\"change-city\" href=\"https://www.meituan.com/changecity/\">切换城市</a><div class=\"near-citys\">[<a class=\"city-guess\" href=\"https://mentougouqu.meituan.com\">门头沟区</a><a class=\"city-guess\" href=\"https://lf.meituan.com\">廊坊</a><a class=\"city-guess\" href=\"https://dachangzizhixian.meituan.com\">大厂回族自治县</a>]</div><div class=\"user-entry\"><a class=\"growth-entry user-up\">立即登录</a><a class=\"extra-entry\">注册</a></div></div><nav class=\"header-bar-nav\"><ul class=\"header-nav-first\"><li class=\"has-child\"><a rel=\"nofollow\" href=\"https://www.meituan.com/account/userinfo/\" target=\"_blank\">我的美团<ul class=\"header-nav-my header-nav-second\"><li><a rel=\"nofollow\" href=\"https://www.meituan.com/orders/\" target=\"_blank\">我的订单</a></li><li><a rel=\"nofollow\" href=\"https://www.meituan.com/collections/\" target=\"_blank\">我的收藏</a></li><li><a rel=\"nofollow\" href=\"https://www.meituan.com/vouchers/\" target=\"_blank\">抵用券</a></li><li><a rel=\"nofollow\" href=\"https://www.meituan.com/account/settings\" target=\"_blank\">账户设置</a></li></ul></a></li><li><a href=\"https://i.meituan.com/mobile/down/meituan\" target=\"_blank\">手机APP</a></li><li class=\"has-child\">商家中心<ul class=\"header-nav-merchant header-nav-second\"><li><a rel=\"nofollow\" href=\"http://b.meituan.com/canyin/PC\" target=\"_blank\">美团餐饮商户中心</a></li><li><a rel=\"nofollow\" href=\"https://e.meituan.com/\" target=\"_blank\">登录商家中心</a></li><li><a rel=\"nofollow\" href=\"https://shouyin.meituan.com?utm_source=inner&amp;utm_medium=mtpcsjzx\">美团智能收银</a></li><li><a rel=\"nofollow\" href=\"https://ecom.meituan.com/bizsettle/settle/merchantsSettle?utm_source=mt_C_my\" target=\"_blank\">我想合作</a></li><li><a rel=\"nofollow\" href=\"https://e.meituan.com/mobile/\" target=\"_blank\">手机免费开店</a></li><li><a rel=\"nofollow\" href=\"https://wenjuan.meituan.com/survey/4692346\" target=\"_blank\">到店综合业务招募</a></li><li><a rel=\"nofollow\" href=\"https://wenjuan.meituan.com/survey/4692346\" target=\"_blank\">餐饮合作商招募</a></li><li><a href=\"https://pc.meituan.com?activity_code=mtpcdh\" target=\"_blank\">商家申请开票</a></li><li><a href=\"https://paidui.meituan.com/?activity_code=168_00038141\" target=\"_blank\">免费合作美团排队</a></li></ul></li><li class=\"has-child\">美团规则<ul class=\"header-nav-my header-nav-second\"><li><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/\" target=\"_blank\">规则中心</a></li><li><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules\" target=\"_blank\">规则目录</a></li><li><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/advices\" target=\"_blank\">规则评议院</a></li></ul></li><li class=\"has-child\">网站导航<div class=\"header-nav-site header-nav-second\"><dl class=\"header-jiulv header-nav-third\"><dt>酒店旅游</dt><dd><a href=\"https://www.meituan.com/iflight/\" target=\"_blank\">国际机票</a></dd><dd><a href=\"https://www.meituan.com/train/\" target=\"_blank\">火车票</a></dd><dd><a href=\"https://minsu.meituan.com/\" target=\"_blank\">民宿</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20036/\" target=\"_blank\">经济型酒店</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20037/\" target=\"_blank\">主题酒店</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20038/\" target=\"_blank\">商务酒店</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20039/\" target=\"_blank\">公寓</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20040/\" target=\"_blank\">豪华酒店</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20041/\" target=\"_blank\">客栈</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20042/\" target=\"_blank\">青年旅社</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20043/\" target=\"_blank\">度假酒店</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20044/\" target=\"_blank\">别墅</a></dd><dd><a href=\"https://hotel.meituan.com/beijing/c20045/\" target=\"_blank\">农家院</a></dd></dl><dl class=\"header-meishi header-nav-third\"><dt>吃美食</dt><dd><a href=\"https://bj.meituan.com/meishi/c20004/\" target=\"_blank\">烤鱼</a></dd><dd><a href=\"https://bj.meituan.com/meishi/c36/\" target=\"_blank\">特色小吃</a></dd><dd><a href=\"https://bj.meituan.com/meishi/c54/\" target=\"_blank\">烧烤</a></dd><dd><a href=\"https://bj.meituan.com/meishi/c40/\" target=\"_blank\">自助餐</a></dd><dd><a href=\"https://bj.meituan.com/meishi/c17/\" target=\"_blank\">火锅</a></dd><dd><a href=\"https://bj.meituan.com/meishi/c393/\" target=\"_blank\">代金券</a></dd></dl><dl class=\"header-movie header-nav-third\"><dt>看电影</dt><dd><a href=\"https://maoyan.com/films\" target=\"_blank\">热映电影</a></dd><dd><a href=\"https://maoyan.com/cinemas\" target=\"_blank\">热门影院</a></dd><dd><a href=\"https://maoyan.com/board\" target=\"_blank\">热映电影口碑榜</a></dd><dd><a href=\"https://maoyan.com/board/6\" target=\"_blank\">最受期待电影</a></dd><dd><a href=\"https://maoyan.com/board/1\" target=\"_blank\">国内票房榜</a></dd><dd><a href=\"https://maoyan.com/board/2\" target=\"_blank\">北美票房榜</a></dd><dd><a href=\"https://maoyan.com/board/4\" target=\"_blank\">电影排行榜</a></dd></dl><dl class=\"header-app header-nav-third\"><dt>手机应用</dt><dd><a href=\"https://i.meituan.com/mobile/down/meituan\" target=\"_blank\"><img class=\"appicon\" src=\"//s0.meituan.net/bs/fe-web-meituan/2d53095/img/appicons/meituan.png\" title=\"美团app\" alt=\"美团app\"/></a></dd><dd><a href=\"https://waimai.meituan.com/mobile/download/default\" target=\"_blank\"><img class=\"appicon\" src=\"//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/waimai.png\" title=\"外卖app\" alt=\"外卖app\"/></a></dd><dd><a href=\"https://minsu.meituan.com/app/\" target=\"_blank\"><img class=\"appicon\" src=\"https://p0.meituan.net/travelcube/162c3308d9622f6d9cfaa49e60be4dca8573.png\" title=\"民宿app\" alt=\"民宿app\"/></a></dd><dd><a href=\"https://www.dianping.com/events/m/index.htm\" target=\"_blank\"><img class=\"appicon\" src=\"//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/dianping.png\" title=\"点评app\" alt=\"点评app\"/></a></dd><dd><a href=\"https://maoyan.com/app\" target=\"_blank\"><img class=\"appicon\" src=\"//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/maoyan.png\" title=\"猫眼app\" alt=\"猫眼app\"/></a></dd></dl></div></li></ul></nav></div></div><div class=\"header-content clearfix\"><div class=\"header-title-module\"><div class=\"header-title\"><a href=\"//bj.meituan.com\"><img src=\"//s0.meituan.net/bs/fe-web-meituan/10afbf1/img/logo.png\" alt=\"美团\"/></a></div><span class=\"header-categorys-cate\">· 美食</span><ul class=\"header-categorys-block\"><li class=\"header-categorys-all\">全部分类</li><nav class=\"header-categorys-list\"><li class=\"clearfix\"><a href=\"https://bj.meituan.com/meishi/\">美食</a></li><li class=\"clearfix\"><a href=\"https://waimai.meituan.com\">外卖</a></li><li class=\"clearfix\"><a href=\"https://hotel.meituan.com\">酒店</a></li><li class=\"clearfix\"><a href=\"https://minsu.meituan.com/?phx_wake_up_type=mtpc_category&amp;phx_wake_up_source=nav\">民宿</a></li><li class=\"clearfix\"><a href=\"https://maoyan.com/films?utm_source=meituanweb\">猫眼电影</a></li><li class=\"clearfix\"><a href=\"https://www.meituan.com/flight/\">机票</a><a href=\"https://www.meituan.com/train/\">火车票</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/xiuxianyule/\">休闲娱乐</a><a href=\"https://bj.meituan.com/xiuxianyule/c10/\">KTV</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/shenghuo/\">生活服务</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/jiankangliren/\">丽人</a><a href=\"https://bj.meituan.com/jiankangliren/c74/\">美发</a><a href=\"https://bj.meituan.com/jiankangliren/c20423/\">医学美容</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/jiehun/\">结婚</a><a href=\"https://bj.meituan.com/jiehun/c20198/\">婚纱摄影</a><a href=\"https://bj.meituan.com/jiehun/c20210/\">婚宴</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/qinzi/\">亲子</a><a href=\"https://bj.meituan.com/qinzi/c20108/\">儿童乐园</a><a href=\"https://bj.meituan.com/qinzi/c20045/\">幼教</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/yundongjianshen/\">运动健身</a><a href=\"https://bj.meituan.com/yundongjianshen/c20253/\">健身中心</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/jiazhuang/\">家装</a><a href=\"https://bj.meituan.com/jiazhuang/c20182/\">建材</a><a href=\"https://bj.meituan.com/jiazhuang/c20771/\">家居</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/jiaoyupeixun/\">学习培训</a><a href=\"https://bj.meituan.com/xuexipeixun/c20287/\">音乐培训</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/yiliao/\">医疗健康</a><a href=\"https://bj.meituan.com/chongwu/c20691/\">宠物</a><a href=\"https://bj.meituan.com/aiche/\">爱车</a></li><li class=\"clearfix\"><a href=\"https://bj.meituan.com/xiuxianyule/c234/\">酒吧</a><a href=\"https://bj.meituan.com/xiuxianyule/c230/\">密室逃脱</a></li></nav></ul></div><div class=\"header-search-module\"><div class=\"header-search-block\"><input class=\"header-search-input\" type=\"text\" placeholder=\"搜索商家或地点\"/><button class=\"header-search-btn\"><span class=\"header-icon icon-search-new\"></span></button></div><div class=\"header-search-suggest\"><div class=\"header-search-noinput\"><div class=\"header-search-history\"><h6>最近搜索</h6><span class=\"header-search-clean\">删除搜索历史</span><ul></ul></div></div><div class=\"header-search-hasinput\"><ul></ul></div></div><div class=\"header-search-hotword\"><a href=\"https://www.meituan.com/s/%E9%BA%A6%E5%BD%93%E5%8A%B3\">麦当劳</a><a href=\"https://www.meituan.com/s/1/3%C2%B7OT\">1/3·OT</a><a href=\"https://www.meituan.com/s/%E5%8C%97%E4%BA%AC%E4%B9%90%E9%85%B7%E7%94%B5%E7%AB%9E%E4%B8%BB%E9%A2%98%E9%85%92%E5%BA%97\">北京乐酷电竞主题酒店</a><a href=\"https://www.meituan.com/s/85%E5%BA%A6C\">85度C</a><a href=\"https://www.meituan.com/s/%E9%B2%8D%E5%B8%88%E5%82%85%E7%B3%95%E7%82%B9\">鲍师傅糕点</a><a href=\"https://www.meituan.com/s/PAGEONE\">PAGEONE</a><a href=\"https://www.meituan.com/s/%E6%88%91%E7%88%B1%E9%85%B8%E5%98%A2\">我爱酸嘢</a><a href=\"https://www.meituan.com/s/%E5%91%B3%E5%A4%9A%E7%BE%8E%E8%9B%8B%E7%B3%95\">味多美蛋糕</a></div></div></div></header><script>window.comPtData = window.comPtData || {}\nwindow.comPtData['header'] = {\"currentCity\":{\"id\":1,\"name\":\"北京\",\"pinyin\":\"beijing\",\"acronym\":\"bj\",\"onlineTime\":\"1267632000\",\"open\":true,\"rank\":\"S\",\"locationId\":\"110000\",\"position\":{\"lat\":39.9049873,\"lng\":116.4052887},\"divisionStr\":\"北京--北京\",\"originGeotagID\":0,\"realLocationID\":\"110000\",\"provinceLocationID\":\"110000\",\"gisID\":\"110100\",\"chineseFullName\":\"北京市\",\"isHot\":1,\"firstChar\":\"B\",\"originCityID\":0,\"recommend\":1,\"newIndex\":1,\"endTime\":\"2000000000\"}}</script><script src=\"//s1.meituan.net/bs/fe-web-meituan/7845e34/js/ie-shim.js\"></script><script src=\"//s1.meituan.net/bs/fe-web-meituan/e9d9492/js/fetch.js\"></script><script src=\"//s0.meituan.net/bs/fe-web-meituan/ffa2cfd/js/common.js\"></script><script src=\"//s0.meituan.net/bs/fe-web-meituan/dda12a9/js/com_header.js\" defer=\"defer\"></script>",
+    "comFooter": "<link rel=\"stylesheet\" type=\"text/css\" href=\"//s0.meituan.net/bs/fe-web-meituan/6df4aa7/css/com_footer.css\"/><footer class=\"com-footer\"><div class=\"footer-content\"><div class=\"footer-link clearfix\"><div class=\"footer-column\"><dl><dt>用户帮助</dt><dd><a rel=\"nofollow\" href=\"http://www.meituan.com/help/selfservice\" target=\"_blank\">申请退款</a></dd><dd><a rel=\"nofollow\" href=\"http://www.meituan.com/help/faq\" target=\"_blank\">常见问题</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules-detail/4\" target=\"_blank\">用户协议</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules-detail/2\" target=\"_blank\">隐私政策</a></dd><dd><a rel=\"nofollow\" href=\"http://www.meituan.com/about/anticheat\" target=\"_blank\">反诈骗公告</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/customer-rights\" target=\"_blank\">消费者权益保障</a></dd></dl><dl><dt>美团服务</dt><dd><a href=\"http://waimai.meituan.com/\" target=\"_blank\">美团外卖</a></dd><dd><a href=\"http://hotel.meituan.com/\" target=\"_blank\">美团酒店</a></dd><dd><a href=\"http://maoyan.com/\" target=\"_blank\">猫眼电影</a></dd><dd><a href=\"https://peisong.meituan.com/\" target=\"_blank\">美团配送</a></dd><dd><a href=\"https://www.mtyun.com/\" target=\"_blank\">美团云</a></dd><dd><a href=\"http://www.dianping.com/\" target=\"_blank\">大众点评</a></dd><dd><a href=\"https://minsu.meituan.com/\" target=\"_blank\">美团民宿</a></dd><dd><a href=\"https://mad.meituan.com\" target=\"_blank\">无人配送</a></dd><dd><a href=\"https://em.meituan.com/?channeltype=01,01,01\" target=\"_blank\">企业用餐、企业用车、企业差旅</a></dd><dd><a href=\"https://developer.meituan.com/\" target=\"_blank\">开放平台</a></dd></dl></div><div class=\"footer-column\"><dl><dt>商家合作</dt><dd><a rel=\"nofollow\" href=\"https://ecom.meituan.com/bizsettle/settle?utm_source=mt_C_my\" target=\"_blank\">美食商家入驻(非外卖)</a></dd><dd><a href=\"https://kd.meituan.com/\" target=\"_blank\">美团外卖开店申请</a></dd><dd><a href=\"https://rms.meituan.com\" target=\"_blank\">美团餐饮系统</a></dd><dd><a rel=\"nofollow\" href=\"http://page.peisong.meituan.com/apply/join\" target=\"_blank\">美团配送合作申请</a></dd><dd><a href=\"https://xue.meituan.com/?from=mtpc\" target=\"_blank\">美团餐饮培训</a></dd><dd><a rel=\"nofollow\" href=\"https://ruzhu.meituan.com/settle/hotel/propaganda.html\" target=\"_blank\">酒店商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://ruzhu.meituan.com/settle/trip/pc.html\" target=\"_blank\">境内度假商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://e.dianping.com/claimcpc/page/index?source=mt\" target=\"_blank\">综合商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://minsu.meituan.com/about/\" target=\"_blank\">美团民宿房东商家入驻</a></dd><dd><a href=\"http://pc.meituan.com/?activity_code=mtpcdb\" target=\"_blank\">商家开票申请</a></dd><dd><a rel=\"nofollow\" href=\"https://h5.youzan.com/v2/feature/nALm22bkFF?dc_ps=2039811416638097413.200001\" target=\"_blank\">美团智能收银机</a></dd><dd><a rel=\"nofollow\" href=\"https://developer.meituan.com/?from=mtpcsw\" target=\"_blank\">美团开放平台</a></dd><dd><a rel=\"nofollow\" href=\"https://recommend-zc.meituan.com/opportunity?channel=1\" target=\"_blank\">美团收单</a></dd><dd><a rel=\"nofollow\" href=\"https://paidui.meituan.com/?activity_code=167_00038050\" target=\"_blank\">免费使用美团排队</a></dd><dd><a rel=\"nofollow\" href=\"https://i.meituan.com/awp/hfe/block/6c4bec785dce/11188/index.html\" target=\"_blank\">快驴进货商家合作</a></dd><dd><a rel=\"nofollow\" href=\"https://shangou.meituan.com/joinin\" target=\"_blank\">美团闪购商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://123.meituan.com?source=mtwpc\" target=\"_blank\">合作/招聘</a></dd></dl></div><div class=\"footer-column\"><dl><dt>合作商招募</dt><dd><a rel=\"nofollow\" href=\"https://mfe.waimai.meituan.com/mfepro/client-h5/#/login\" target=\"_blank\">美团外卖合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://daili.meituan.com/?comeFrom=mtwebBusinesscoopd\" target=\"_blank\">到店餐饮合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://daili.meituan.com/dz-zhaoshang\" target=\"_blank\">到店综合业务合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"http://union.meituan.com/\" target=\"_blank\">美团联盟</a></dd><dd><a rel=\"nofollow\" href=\"https://wenjuan.meituan.com/survey/4332711\" target=\"_blank\">美团收银招募线上分销商</a></dd><dd><a rel=\"nofollow\" href=\"https://agent.meituan.com/zhaoshang?partnerSource=3\" target=\"_blank\">美团收银合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://zf.meituan.com?partnerSource=3\" target=\"_blank\">美团收单合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://i.meituan.com/awp/hfe/block/index.html?cube_h=2b7f0b4afbea&amp;cube_i=97656\" target=\"_blank\">美团充电宝合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://managergrocery.meituan.com/mall-fe-agent-activity/clues-collect.html?page_from=30\" target=\"_blank\">美团优选渠道合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://vss.baobaoaichi.cn/\" target=\"_blank\">美团买菜合作商招募</a></dd></dl><dl><dt>美团规则</dt><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/\" target=\"_blank\">规则中心</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules\" target=\"_blank\">规则目录</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/advices\" target=\"_blank\">规则评议院</a></dd></dl></div><div class=\"footer-column\"><dl><dt>关注美团</dt><dd><a rel=\"nofollow\" href=\"http://weibo.com/meituan\" target=\"_blank\">美团新浪微博</a></dd></dl><dl><dt>公司信息</dt><dd><a rel=\"nofollow\" href=\"https://about.meituan.com/\" target=\"_blank\">关于我们</a></dd><dd><a rel=\"nofollow\" href=\"https://about.meituan.com/investor.html\" target=\"_blank\">投资者关系</a></dd><dd><a rel=\"nofollow\" href=\"http://zhaopin.meituan.com/\" target=\"_blank\">加入我们</a></dd><dd><a rel=\"nofollow\" href=\"https://dpapp-appeal.meituan.com/#/shopCreditRegulationPC\" target=\"_blank\">商户诚信公约及管理办法</a></dd><dd><a rel=\"nofollow\" href=\"https://i.meituan.com/awp/ffe/insurance-website/index.html#/\" target=\"_blank\">保险经纪资质</a></dd></dl><dl><dt>廉正举报</dt><dd><a rel=\"nofollow\" href=\"https://jubao.meituan.com/app/home?source=1\" target=\"_self\">廉正举报平台</a></dd></dl><dl><dt>知识产权</dt><dd><a rel=\"nofollow\" href=\"https://ipr.meituan.com?source=1\" target=\"_blank\">知识产权维权平台</a></dd></dl></div><div class=\"footer-column\"><dl><dt>消费者服务热线</dt><dd>外卖消费者：<a rel=\"nofollow\" href=\"tel:10109777\" target=\"_blank\">10109777</a></dd><dd>猫眼消费者：<a rel=\"nofollow\" href=\"tel:10105335\" target=\"_blank\">10105335</a></dd><dd>其他消费者：<a rel=\"nofollow\" href=\"tel:10107888\" target=\"_blank\">10107888</a></dd></dl><dl><dt>商家服务热线</dt><dd>外卖&amp;餐饮商家：<a rel=\"nofollow\" href=\"tel:10105557\" target=\"_blank\">10105557</a></dd><dd>休闲娱乐、丽人、ktv、教育、结婚、亲子、家装等商家：<a rel=\"nofollow\" href=\"tel:10100107\" target=\"_blank\">10100107</a></dd></dl><dl><dt>投诉举报专区</dt><dd>违法和不良信息举报电话：<a rel=\"nofollow\" href=\"tel:4006018900\" target=\"_blank\">4006018900</a></dd><dd>举报邮箱：<a rel=\"nofollow\" href=\"mailto:tousujubao@meituan.com\" target=\"_self\">tousujubao@meituan.com</a></dd><dd><a rel=\"nofollow\" href=\"https://www.12377.cn/\" target=\"_blank\">网上有害信息举报</a></dd><dd>注：<a rel=\"nofollow\" href=\"\" target=\"\">以上渠道均可投诉举报涉未成年人的违法和不良信息</a></dd></dl><dl><dt><a rel=\"nofollow\" href=\"https://ecom.meituan.com/bizsettle/settle/merchantsSettle\" target=\"_blank\">商家自助入驻美团入口</a></dt></dl><dl><dt><a rel=\"nofollow\" href=\"https://isp.meituan.com/signup\" target=\"_blank\">供应商注册入口</a></dt></dl></div></div><div class=\"footer-copyright clearfix\"><div class=\"footer-copyright-left\"><p>©美团网团购 meituan.com<a href=\"https://beian.miit.gov.cn/\" style=\"margin-left: 20px;\">京ICP证070791号</a><a href=\"https://beian.miit.gov.cn\">京ICP备10211739号-1</a></p><p><a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/comment/license/tv\" target=\"_blank\">广播电视节目制作经营许可证（京）字第03889号</a></p><p><a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/medicalcertificate\" target=\"_blank\">互联网药品信息服务资格证 (京)-经营性-2017-0014</a></p><p><a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/medicalequipment\" target=\"_blank\">医疗器械网络交易服务第三方平台备案：（京）网械平台备字[2018]第00004号</a></p><p> <a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/edilicense\" target=\"_blank\">平台EDI许可证</a></p></div><div class=\"footer-copyright-right\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002052\" target=\"_blank\"><img class=\"beianicon\" src=\"https://p0.meituan.net/travelcube/d0289dc0a46fc5b15b3363ffa78cf6c719256.png\"/>京公网安备 11000002002052号</a><div class=\"footer-copyright-cert\"><a class=\"bus-license\" href=\"https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do?showType=p&amp;serial=11000020190617184241000003572274-SAIC_SHOW_10002020190618102726868&amp;signData=MEQCIMo7nivRikGQc6WsX/jx0IcZ46irhkjszdhhg4kv17uBAiD78duadRu3XX5WyuE+duSrhPmdVUFgr7cN1iV/WSv4uw==\" title=\"营业执照\" target=\"_blank\"><img src=\"https://p1.meituan.net/travelcube/3e7f8a17e55bace814166b667618b459366061.png@76h_76w_2e\"/><p>北京三快科技有限公司</p></a><a class=\"sp-ft sp-ft--record\" href=\"https://beian.miit.gov.cn/?spm=a21bo.21814703.1997523009.40.5af911d9saMbGy#/Integrated/index\" title=\"备案信息\" target=\"_blank\">备案信息</a><a class=\"sp-ft sp-ft--12315\" href=\"http://www.12315.cn/\" title=\"12315消费争议\" target=\"_blank\">12315消费争议</a></div></div></div></div></footer>"
+}

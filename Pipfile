@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+pymysql = "*"
+requests-html = "*"
+
+[dev-packages]
+notebook = "*"
+mypy = "*"
+
+[requires]
+python_version = "3.9"

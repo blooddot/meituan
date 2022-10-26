@@ -1,0 +1,1931 @@
+{
+    "$meta": {
+        "knbJS": "//s0.meituan.net/bs/knb/v1.3.19/knb.js",
+        "adunionJS": "//h5.dianping.com/app/adu-track/adunion-track.js",
+        "uuid": "b0076377cb5e418dabcc.1652879170.1.0.0",
+        "userId": "265087521",
+        "cityId": 30,
+        "cityName": "深圳",
+        "userName": "雪糕啊哈哈",
+        "pageId": "c_zmptg",
+        "valLab": "{}",
+        "title": "【深圳美食】全部美食推荐_美食攻略-深圳美团网"
+    },
+    "pageId": "c_zmptg",
+    "userId": "265087521",
+    "title": "【深圳美食】全部美食推荐_美食攻略-深圳美团网",
+    "description": "美团深圳+美食，查找全部美食图片，特色美食，美食餐厅，查询菜单，人均价格，营业时间，优惠的最新信息。上万用户的美食评价，推荐靠谱特色美食店。",
+    "keyword": "深圳+美食，美食图片，特色美食，美食餐厅。",
+    "prefer": [
+        {
+            "itemId": "96256935",
+            "title": "逃脱反斗城全机关精品密室逃脱（南山店）",
+            "imgUrl": "http://p0.meituan.net/w.h/ugcpic/0ee34038cb7ab0703f9ef17d23050725",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "南油",
+            "lowPrice": "78.0",
+            "saleNum": null,
+            "commentNum": 1321,
+            "detailUrl": "",
+            "firstCate": [
+                2
+            ],
+            "avgPrice": 105
+        },
+        {
+            "itemId": "1504790",
+            "title": "奈瑞儿美颜美养痛症调理（宝安中心店）",
+            "imgUrl": "http://p0.meituan.net/w.h/dpmerchantpic/bf3a818a9a3480c6125246c0ee3f31c7813814.png",
+            "score": "4.9",
+            "consumeNum": null,
+            "areaName": "宝安中心区",
+            "lowPrice": "299.0",
+            "saleNum": null,
+            "commentNum": 1878,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22
+            ],
+            "avgPrice": 193
+        },
+        {
+            "itemId": "50412819",
+            "title": "沙朴Hair（上河坊形象店）",
+            "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/821e43fae64c659f61f075e6ec6d8a4671388.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "梅林关",
+            "lowPrice": "49.0",
+            "saleNum": null,
+            "commentNum": 658,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 225
+        },
+        {
+            "itemId": "5639005",
+            "title": "康妮儿国际SPA（幸福海岸店）",
+            "imgUrl": "https://p1.meituan.net/w.h/dpmerchantpic/fadede7e612c70d657ab7fb11bf1b078200006.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "宝体",
+            "lowPrice": "88.0",
+            "saleNum": null,
+            "commentNum": 167,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22
+            ],
+            "avgPrice": 110
+        },
+        {
+            "itemId": "108111199",
+            "title": "吉祥贝贝母婴生活馆（石岩店）",
+            "imgUrl": "http://p1.meituan.net/w.h/wedding/ea0c6a347ae48601cc9bd23778be943d187728.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "石岩",
+            "lowPrice": "39.0",
+            "saleNum": null,
+            "commentNum": 522,
+            "detailUrl": "",
+            "firstCate": [
+                3,
+                4,
+                20007
+            ],
+            "avgPrice": 0
+        },
+        {
+            "itemId": "96695241",
+            "title": "苏薇TH潮色店（创业天虹店）",
+            "imgUrl": "https://p1.meituan.net/w.h/wedding/7e242920d6d8ac3821b770c973393a02234242.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "翻身",
+            "lowPrice": "29.9",
+            "saleNum": null,
+            "commentNum": 658,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 402
+        },
+        {
+            "itemId": "91332701",
+            "title": "YOUNG优漾-SALON（前海店）",
+            "imgUrl": "https://p1.meituan.net/w.h/merchantpic/c8c5145846b917a01128f6614bad70be245297.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "前海",
+            "lowPrice": "58.0",
+            "saleNum": null,
+            "commentNum": 987,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 329
+        },
+        {
+            "itemId": "1391095803",
+            "title": "堂本家·二代目·炸猪排（中心书城店）",
+            "imgUrl": "http://p0.meituan.net/w.h/biztone/1834108625_1652686564315.jpeg",
+            "score": "3.9",
+            "consumeNum": null,
+            "areaName": "市中心/会展中心",
+            "lowPrice": "25.0",
+            "saleNum": null,
+            "commentNum": 92,
+            "detailUrl": "",
+            "firstCate": [
+                1,
+                20557
+            ],
+            "avgPrice": 85
+        },
+        {
+            "itemId": "152803865",
+            "title": "清颜堂专业祛痘（世界之窗店）",
+            "imgUrl": "https://p1.meituan.net/w.h/dpmerchantpic/86628dbfd6d049a0beedd58ba7c66f7f175224.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "益田假日",
+            "lowPrice": "39.0",
+            "saleNum": null,
+            "commentNum": 206,
+            "detailUrl": "",
+            "firstCate": [
+                22
+            ],
+            "avgPrice": 14
+        },
+        {
+            "itemId": "158740578",
+            "title": "Fresh领鲜海鲜自助餐厅",
+            "imgUrl": "http://p1.meituan.net/w.h/mogu/1f31312d06a28e478bb9f90bfd1a22e577147.jpg",
+            "score": "3.7",
+            "consumeNum": null,
+            "areaName": "东门商业圈",
+            "lowPrice": "128.0",
+            "saleNum": null,
+            "commentNum": 14421,
+            "detailUrl": "",
+            "firstCate": [
+                1,
+                20557
+            ],
+            "avgPrice": 125
+        },
+        {
+            "itemId": "119655696",
+            "title": "半打刺青",
+            "imgUrl": "https://p1.meituan.net/w.h/dpmerchantpic/4df377a6cf5f46717c48b6e4f424cc5899496.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "大芬/南岭",
+            "lowPrice": "68.0",
+            "saleNum": null,
+            "commentNum": 282,
+            "detailUrl": "",
+            "firstCate": [
+                22
+            ],
+            "avgPrice": 720
+        },
+        {
+            "itemId": "77803146",
+            "title": "深圳微齿口腔诊所（岗厦店）",
+            "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/97d2104a9904d3d69cb8eb0ce4026b8b403819.jpg",
+            "score": "4.5",
+            "consumeNum": null,
+            "areaName": "市中心/会展中心",
+            "lowPrice": "128.0",
+            "saleNum": null,
+            "commentNum": 466,
+            "detailUrl": "",
+            "firstCate": [
+                20274,
+                3,
+                20630
+            ],
+            "avgPrice": 0
+        },
+        {
+            "itemId": "6258501",
+            "title": "深圳布吉张志强口腔诊所（京南华庭店）",
+            "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/5db6ddcc28ff3e5a0fda11ec0fb3cac0289484.jpg",
+            "score": "4.0",
+            "consumeNum": null,
+            "areaName": "布吉街/东站",
+            "lowPrice": "1.0",
+            "saleNum": null,
+            "commentNum": 516,
+            "detailUrl": "",
+            "firstCate": [
+                20274,
+                3,
+                20630
+            ],
+            "avgPrice": 0
+        },
+        {
+            "itemId": "50490387",
+            "title": "LADY.S蕾莉诗半永久纹眉纹绣（卓越世纪总店）",
+            "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/75a67aedefdcec2e7b314719021a26bf353655.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "市中心/会展中心",
+            "lowPrice": "19.8",
+            "saleNum": null,
+            "commentNum": 181,
+            "detailUrl": "",
+            "firstCate": [
+                22
+            ],
+            "avgPrice": 5888
+        },
+        {
+            "itemId": "113504729",
+            "title": "Bertha柏莎造型（清湖店）",
+            "imgUrl": "https://p0.meituan.net/w.h/beautyimgout/87fe0be6b9937fbed927898e300c06601177224.jpg",
+            "score": "5.0",
+            "consumeNum": null,
+            "areaName": "清湖地铁站",
+            "lowPrice": "48.0",
+            "saleNum": null,
+            "commentNum": 130,
+            "detailUrl": "",
+            "firstCate": [
+                20611,
+                22,
+                20630
+            ],
+            "avgPrice": 0
+        }
+    ],
+    "ci": 30,
+    "cityName": "深圳",
+    "lat": "",
+    "lng": "",
+    "uuid": "b0076377cb5e418dabcc.1652879170.1.0.0",
+    "crumbNav": [
+        {
+            "title": "深圳美团",
+            "url": "http://sz.meituan.com/"
+        },
+        {
+            "title": "深圳美食",
+            "url": "http://sz.meituan.com/meishi/"
+        }
+    ],
+    "filters": {
+        "cates": [
+            {
+                "id": 393,
+                "name": "代金券",
+                "url": "http://sz.meituan.com/meishi/c393/"
+            },
+            {
+                "id": 11,
+                "name": "蛋糕甜点",
+                "url": "http://sz.meituan.com/meishi/c11/"
+            },
+            {
+                "id": 17,
+                "name": "火锅",
+                "url": "http://sz.meituan.com/meishi/c17/"
+            },
+            {
+                "id": 40,
+                "name": "自助餐",
+                "url": "http://sz.meituan.com/meishi/c40/"
+            },
+            {
+                "id": 36,
+                "name": "小吃快餐",
+                "url": "http://sz.meituan.com/meishi/c36/"
+            },
+            {
+                "id": 28,
+                "name": "日韩料理",
+                "url": "http://sz.meituan.com/meishi/c28/"
+            },
+            {
+                "id": 35,
+                "name": "西餐",
+                "url": "http://sz.meituan.com/meishi/c35/"
+            },
+            {
+                "id": 395,
+                "name": "聚餐宴请",
+                "url": "http://sz.meituan.com/meishi/c395/"
+            },
+            {
+                "id": 54,
+                "name": "烧烤烤肉",
+                "url": "http://sz.meituan.com/meishi/c54/"
+            },
+            {
+                "id": 20003,
+                "name": "东北菜",
+                "url": "http://sz.meituan.com/meishi/c20003/"
+            },
+            {
+                "id": 55,
+                "name": "川湘菜",
+                "url": "http://sz.meituan.com/meishi/c55/"
+            },
+            {
+                "id": 56,
+                "name": "江浙菜",
+                "url": "http://sz.meituan.com/meishi/c56/"
+            },
+            {
+                "id": 20004,
+                "name": "香锅烤鱼",
+                "url": "http://sz.meituan.com/meishi/c20004/"
+            },
+            {
+                "id": 57,
+                "name": "粤菜",
+                "url": "http://sz.meituan.com/meishi/c57/"
+            },
+            {
+                "id": 400,
+                "name": "中式烧烤/烤串",
+                "url": "http://sz.meituan.com/meishi/c400/"
+            },
+            {
+                "id": 58,
+                "name": "西北菜",
+                "url": "http://sz.meituan.com/meishi/c58/"
+            },
+            {
+                "id": 41,
+                "name": "咖啡酒吧",
+                "url": "http://sz.meituan.com/meishi/c41/"
+            },
+            {
+                "id": 59,
+                "name": "京菜鲁菜",
+                "url": "http://sz.meituan.com/meishi/c59/"
+            },
+            {
+                "id": 60,
+                "name": "云贵菜",
+                "url": "http://sz.meituan.com/meishi/c60/"
+            },
+            {
+                "id": 62,
+                "name": "东南亚菜",
+                "url": "http://sz.meituan.com/meishi/c62/"
+            },
+            {
+                "id": 63,
+                "name": "海鲜",
+                "url": "http://sz.meituan.com/meishi/c63/"
+            },
+            {
+                "id": 217,
+                "name": "素食",
+                "url": "http://sz.meituan.com/meishi/c217/"
+            },
+            {
+                "id": 227,
+                "name": "台湾/客家菜",
+                "url": "http://sz.meituan.com/meishi/c227/"
+            },
+            {
+                "id": 228,
+                "name": "创意菜",
+                "url": "http://sz.meituan.com/meishi/c228/"
+            },
+            {
+                "id": 229,
+                "name": "汤/粥/炖菜",
+                "url": "http://sz.meituan.com/meishi/c229/"
+            },
+            {
+                "id": 232,
+                "name": "蒙餐",
+                "url": "http://sz.meituan.com/meishi/c232/"
+            },
+            {
+                "id": 233,
+                "name": "新疆菜",
+                "url": "http://sz.meituan.com/meishi/c233/"
+            },
+            {
+                "id": 24,
+                "name": "其他美食",
+                "url": "http://sz.meituan.com/meishi/c24/"
+            }
+        ],
+        "areas": [
+            {
+                "id": 28,
+                "name": "福田区",
+                "url": "http://sz.meituan.com/meishi/b28/",
+                "subAreas": [
+                    {
+                        "id": 28,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b28/"
+                    },
+                    {
+                        "id": 1056,
+                        "name": "香蜜湖",
+                        "url": "http://sz.meituan.com/meishi/b1056/"
+                    },
+                    {
+                        "id": 744,
+                        "name": "梅林",
+                        "url": "http://sz.meituan.com/meishi/b744/"
+                    },
+                    {
+                        "id": 1055,
+                        "name": "上沙/下沙",
+                        "url": "http://sz.meituan.com/meishi/b1055/"
+                    },
+                    {
+                        "id": 2008,
+                        "name": "华强南",
+                        "url": "http://sz.meituan.com/meishi/b2008/"
+                    },
+                    {
+                        "id": 742,
+                        "name": "八卦岭/园岭",
+                        "url": "http://sz.meituan.com/meishi/b742/"
+                    },
+                    {
+                        "id": 741,
+                        "name": "华强北",
+                        "url": "http://sz.meituan.com/meishi/b741/"
+                    },
+                    {
+                        "id": 743,
+                        "name": "皇岗/水围",
+                        "url": "http://sz.meituan.com/meishi/b743/"
+                    },
+                    {
+                        "id": 756,
+                        "name": "新城市广场",
+                        "url": "http://sz.meituan.com/meishi/b756/"
+                    },
+                    {
+                        "id": 6595,
+                        "name": "车公庙",
+                        "url": "http://sz.meituan.com/meishi/b6595/"
+                    },
+                    {
+                        "id": 6596,
+                        "name": "景田",
+                        "url": "http://sz.meituan.com/meishi/b6596/"
+                    },
+                    {
+                        "id": 6597,
+                        "name": "新洲/石厦",
+                        "url": "http://sz.meituan.com/meishi/b6597/"
+                    },
+                    {
+                        "id": 6974,
+                        "name": "竹子林",
+                        "url": "http://sz.meituan.com/meishi/b6974/"
+                    },
+                    {
+                        "id": 6975,
+                        "name": "市民中心",
+                        "url": "http://sz.meituan.com/meishi/b6975/"
+                    },
+                    {
+                        "id": 7993,
+                        "name": "市中心/会展中心",
+                        "url": "http://sz.meituan.com/meishi/b7993/"
+                    },
+                    {
+                        "id": 7994,
+                        "name": "岗厦",
+                        "url": "http://sz.meituan.com/meishi/b7994/"
+                    },
+                    {
+                        "id": 7996,
+                        "name": "福田保税区",
+                        "url": "http://sz.meituan.com/meishi/b7996/"
+                    },
+                    {
+                        "id": 41709,
+                        "name": "沙头",
+                        "url": "http://sz.meituan.com/meishi/b41709/"
+                    },
+                    {
+                        "id": 44034,
+                        "name": "荔枝公园片区",
+                        "url": "http://sz.meituan.com/meishi/b44034/"
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "name": "罗湖区",
+                "url": "http://sz.meituan.com/meishi/b29/",
+                "subAreas": [
+                    {
+                        "id": 29,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b29/"
+                    },
+                    {
+                        "id": 6976,
+                        "name": "国贸",
+                        "url": "http://sz.meituan.com/meishi/b6976/"
+                    },
+                    {
+                        "id": 758,
+                        "name": "莲塘",
+                        "url": "http://sz.meituan.com/meishi/b758/"
+                    },
+                    {
+                        "id": 2009,
+                        "name": "笋岗",
+                        "url": "http://sz.meituan.com/meishi/b2009/"
+                    },
+                    {
+                        "id": 748,
+                        "name": "翠竹路沿线",
+                        "url": "http://sz.meituan.com/meishi/b748/"
+                    },
+                    {
+                        "id": 745,
+                        "name": "东门商业圈",
+                        "url": "http://sz.meituan.com/meishi/b745/"
+                    },
+                    {
+                        "id": 746,
+                        "name": "宝安南路沿线",
+                        "url": "http://sz.meituan.com/meishi/b746/"
+                    },
+                    {
+                        "id": 757,
+                        "name": "火车站",
+                        "url": "http://sz.meituan.com/meishi/b757/"
+                    },
+                    {
+                        "id": 6598,
+                        "name": "万象城",
+                        "url": "http://sz.meituan.com/meishi/b6598/"
+                    },
+                    {
+                        "id": 6599,
+                        "name": "喜荟城/水库",
+                        "url": "http://sz.meituan.com/meishi/b6599/"
+                    },
+                    {
+                        "id": 7659,
+                        "name": "地王大厦",
+                        "url": "http://sz.meituan.com/meishi/b7659/"
+                    },
+                    {
+                        "id": 8469,
+                        "name": "黄贝岭",
+                        "url": "http://sz.meituan.com/meishi/b8469/"
+                    },
+                    {
+                        "id": 8470,
+                        "name": "春风万佳/文锦渡",
+                        "url": "http://sz.meituan.com/meishi/b8470/"
+                    },
+                    {
+                        "id": 8471,
+                        "name": "布心/太白路",
+                        "url": "http://sz.meituan.com/meishi/b8471/"
+                    },
+                    {
+                        "id": 8790,
+                        "name": "田贝/水贝",
+                        "url": "http://sz.meituan.com/meishi/b8790/"
+                    },
+                    {
+                        "id": 8794,
+                        "name": "银湖/泥岗",
+                        "url": "http://sz.meituan.com/meishi/b8794/"
+                    },
+                    {
+                        "id": 8795,
+                        "name": "新秀/罗芳",
+                        "url": "http://sz.meituan.com/meishi/b8795/"
+                    },
+                    {
+                        "id": 13080,
+                        "name": "梧桐山",
+                        "url": "http://sz.meituan.com/meishi/b13080/"
+                    },
+                    {
+                        "id": 14095,
+                        "name": "KKMAll/京基100大厦",
+                        "url": "http://sz.meituan.com/meishi/b14095/"
+                    },
+                    {
+                        "id": 43490,
+                        "name": "罗湖区政府",
+                        "url": "http://sz.meituan.com/meishi/b43490/"
+                    },
+                    {
+                        "id": 46352,
+                        "name": "草埔",
+                        "url": "http://sz.meituan.com/meishi/b46352/"
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "name": "南山区",
+                "url": "http://sz.meituan.com/meishi/b30/",
+                "subAreas": [
+                    {
+                        "id": 30,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b30/"
+                    },
+                    {
+                        "id": 751,
+                        "name": "南头",
+                        "url": "http://sz.meituan.com/meishi/b751/"
+                    },
+                    {
+                        "id": 750,
+                        "name": "华侨城",
+                        "url": "http://sz.meituan.com/meishi/b750/"
+                    },
+                    {
+                        "id": 749,
+                        "name": "蛇口",
+                        "url": "http://sz.meituan.com/meishi/b749/"
+                    },
+                    {
+                        "id": 1057,
+                        "name": "南油",
+                        "url": "http://sz.meituan.com/meishi/b1057/"
+                    },
+                    {
+                        "id": 1058,
+                        "name": "科技园",
+                        "url": "http://sz.meituan.com/meishi/b1058/"
+                    },
+                    {
+                        "id": 1059,
+                        "name": "西丽",
+                        "url": "http://sz.meituan.com/meishi/b1059/"
+                    },
+                    {
+                        "id": 4811,
+                        "name": "南山中心区",
+                        "url": "http://sz.meituan.com/meishi/b4811/"
+                    },
+                    {
+                        "id": 6591,
+                        "name": "海岸城/保利",
+                        "url": "http://sz.meituan.com/meishi/b6591/"
+                    },
+                    {
+                        "id": 6592,
+                        "name": "前海",
+                        "url": "http://sz.meituan.com/meishi/b6592/"
+                    },
+                    {
+                        "id": 6593,
+                        "name": "白石洲",
+                        "url": "http://sz.meituan.com/meishi/b6593/"
+                    },
+                    {
+                        "id": 6594,
+                        "name": "欢乐海岸",
+                        "url": "http://sz.meituan.com/meishi/b6594/"
+                    },
+                    {
+                        "id": 7597,
+                        "name": "太古城",
+                        "url": "http://sz.meituan.com/meishi/b7597/"
+                    },
+                    {
+                        "id": 7599,
+                        "name": "花园城",
+                        "url": "http://sz.meituan.com/meishi/b7599/"
+                    },
+                    {
+                        "id": 13109,
+                        "name": "海上世界",
+                        "url": "http://sz.meituan.com/meishi/b13109/"
+                    },
+                    {
+                        "id": 23117,
+                        "name": "世界之窗",
+                        "url": "http://sz.meituan.com/meishi/b23117/"
+                    },
+                    {
+                        "id": 25152,
+                        "name": "南山京基百纳",
+                        "url": "http://sz.meituan.com/meishi/b25152/"
+                    },
+                    {
+                        "id": 36635,
+                        "name": "深圳湾",
+                        "url": "http://sz.meituan.com/meishi/b36635/"
+                    },
+                    {
+                        "id": 41413,
+                        "name": "龙井",
+                        "url": "http://sz.meituan.com/meishi/b41413/"
+                    },
+                    {
+                        "id": 45487,
+                        "name": "益田假日",
+                        "url": "http://sz.meituan.com/meishi/b45487/"
+                    },
+                    {
+                        "id": 46361,
+                        "name": "桃园",
+                        "url": "http://sz.meituan.com/meishi/b46361/"
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "name": "宝安区",
+                "url": "http://sz.meituan.com/meishi/b32/",
+                "subAreas": [
+                    {
+                        "id": 32,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b32/"
+                    },
+                    {
+                        "id": 6586,
+                        "name": "新安",
+                        "url": "http://sz.meituan.com/meishi/b6586/"
+                    },
+                    {
+                        "id": 6585,
+                        "name": "石岩",
+                        "url": "http://sz.meituan.com/meishi/b6585/"
+                    },
+                    {
+                        "id": 752,
+                        "name": "宝安中心区",
+                        "url": "http://sz.meituan.com/meishi/b752/"
+                    },
+                    {
+                        "id": 4653,
+                        "name": "港隆城",
+                        "url": "http://sz.meituan.com/meishi/b4653/"
+                    },
+                    {
+                        "id": 6587,
+                        "name": "西乡",
+                        "url": "http://sz.meituan.com/meishi/b6587/"
+                    },
+                    {
+                        "id": 6588,
+                        "name": "沙井",
+                        "url": "http://sz.meituan.com/meishi/b6588/"
+                    },
+                    {
+                        "id": 6589,
+                        "name": "福永",
+                        "url": "http://sz.meituan.com/meishi/b6589/"
+                    },
+                    {
+                        "id": 7684,
+                        "name": "松岗",
+                        "url": "http://sz.meituan.com/meishi/b7684/"
+                    },
+                    {
+                        "id": 7719,
+                        "name": "海雅缤纷城",
+                        "url": "http://sz.meituan.com/meishi/b7719/"
+                    },
+                    {
+                        "id": 7735,
+                        "name": "固戍",
+                        "url": "http://sz.meituan.com/meishi/b7735/"
+                    },
+                    {
+                        "id": 8006,
+                        "name": "固戍桃源居",
+                        "url": "http://sz.meituan.com/meishi/b8006/"
+                    },
+                    {
+                        "id": 14404,
+                        "name": "时代城",
+                        "url": "http://sz.meituan.com/meishi/b14404/"
+                    },
+                    {
+                        "id": 17088,
+                        "name": "罗田/燕川",
+                        "url": "http://sz.meituan.com/meishi/b17088/"
+                    },
+                    {
+                        "id": 23524,
+                        "name": "沙井京基百纳",
+                        "url": "http://sz.meituan.com/meishi/b23524/"
+                    },
+                    {
+                        "id": 27275,
+                        "name": "宝立方",
+                        "url": "http://sz.meituan.com/meishi/b27275/"
+                    },
+                    {
+                        "id": 36634,
+                        "name": "宝安国际机场",
+                        "url": "http://sz.meituan.com/meishi/b36634/"
+                    },
+                    {
+                        "id": 40466,
+                        "name": "翻身",
+                        "url": "http://sz.meituan.com/meishi/b40466/"
+                    },
+                    {
+                        "id": 40773,
+                        "name": "共乐城",
+                        "url": "http://sz.meituan.com/meishi/b40773/"
+                    },
+                    {
+                        "id": 41352,
+                        "name": "上川自由路",
+                        "url": "http://sz.meituan.com/meishi/b41352/"
+                    },
+                    {
+                        "id": 42804,
+                        "name": "天虹汇一城",
+                        "url": "http://sz.meituan.com/meishi/b42804/"
+                    },
+                    {
+                        "id": 42805,
+                        "name": "七巧国",
+                        "url": "http://sz.meituan.com/meishi/b42805/"
+                    },
+                    {
+                        "id": 42949,
+                        "name": "壹乐会",
+                        "url": "http://sz.meituan.com/meishi/b42949/"
+                    },
+                    {
+                        "id": 43815,
+                        "name": "宝体",
+                        "url": "http://sz.meituan.com/meishi/b43815/"
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "name": "龙岗区",
+                "url": "http://sz.meituan.com/meishi/b33/",
+                "subAreas": [
+                    {
+                        "id": 33,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b33/"
+                    },
+                    {
+                        "id": 753,
+                        "name": "罗岗/求水山",
+                        "url": "http://sz.meituan.com/meishi/b753/"
+                    },
+                    {
+                        "id": 6600,
+                        "name": "五和/民营市场",
+                        "url": "http://sz.meituan.com/meishi/b6600/"
+                    },
+                    {
+                        "id": 6601,
+                        "name": "平湖",
+                        "url": "http://sz.meituan.com/meishi/b6601/"
+                    },
+                    {
+                        "id": 7656,
+                        "name": "横岗",
+                        "url": "http://sz.meituan.com/meishi/b7656/"
+                    },
+                    {
+                        "id": 7658,
+                        "name": "南澳",
+                        "url": "http://sz.meituan.com/meishi/b7658/"
+                    },
+                    {
+                        "id": 7663,
+                        "name": "双龙/南联",
+                        "url": "http://sz.meituan.com/meishi/b7663/"
+                    },
+                    {
+                        "id": 7664,
+                        "name": "坪地",
+                        "url": "http://sz.meituan.com/meishi/b7664/"
+                    },
+                    {
+                        "id": 8472,
+                        "name": "大运",
+                        "url": "http://sz.meituan.com/meishi/b8472/"
+                    },
+                    {
+                        "id": 9013,
+                        "name": "李朗聚星商城",
+                        "url": "http://sz.meituan.com/meishi/b9013/"
+                    },
+                    {
+                        "id": 13359,
+                        "name": "东涌",
+                        "url": "http://sz.meituan.com/meishi/b13359/"
+                    },
+                    {
+                        "id": 13361,
+                        "name": "万科广场/世贸",
+                        "url": "http://sz.meituan.com/meishi/b13361/"
+                    },
+                    {
+                        "id": 13412,
+                        "name": "华南城/奥特莱斯",
+                        "url": "http://sz.meituan.com/meishi/b13412/"
+                    },
+                    {
+                        "id": 18069,
+                        "name": "大芬/南岭",
+                        "url": "http://sz.meituan.com/meishi/b18069/"
+                    },
+                    {
+                        "id": 19456,
+                        "name": "慢城/三联",
+                        "url": "http://sz.meituan.com/meishi/b19456/"
+                    },
+                    {
+                        "id": 19457,
+                        "name": "布吉街/东站",
+                        "url": "http://sz.meituan.com/meishi/b19457/"
+                    },
+                    {
+                        "id": 26297,
+                        "name": "坂田/杨美",
+                        "url": "http://sz.meituan.com/meishi/b26297/"
+                    },
+                    {
+                        "id": 26298,
+                        "name": "岗头/雪象",
+                        "url": "http://sz.meituan.com/meishi/b26298/"
+                    },
+                    {
+                        "id": 35919,
+                        "name": "华为坂田基地",
+                        "url": "http://sz.meituan.com/meishi/b35919/"
+                    },
+                    {
+                        "id": 36519,
+                        "name": "杨梅坑/桔钓沙",
+                        "url": "http://sz.meituan.com/meishi/b36519/"
+                    },
+                    {
+                        "id": 36520,
+                        "name": "葵涌",
+                        "url": "http://sz.meituan.com/meishi/b36520/"
+                    },
+                    {
+                        "id": 36530,
+                        "name": "官湖",
+                        "url": "http://sz.meituan.com/meishi/b36530/"
+                    },
+                    {
+                        "id": 36531,
+                        "name": "西涌",
+                        "url": "http://sz.meituan.com/meishi/b36531/"
+                    },
+                    {
+                        "id": 37501,
+                        "name": "龙岗中心城区",
+                        "url": "http://sz.meituan.com/meishi/b37501/"
+                    },
+                    {
+                        "id": 38055,
+                        "name": "溪涌",
+                        "url": "http://sz.meituan.com/meishi/b38055/"
+                    }
+                ]
+            },
+            {
+                "id": 9553,
+                "name": "龙华区",
+                "url": "http://sz.meituan.com/meishi/b9553/",
+                "subAreas": [
+                    {
+                        "id": 9553,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b9553/"
+                    },
+                    {
+                        "id": 1061,
+                        "name": "龙华",
+                        "url": "http://sz.meituan.com/meishi/b1061/"
+                    },
+                    {
+                        "id": 6584,
+                        "name": "民治",
+                        "url": "http://sz.meituan.com/meishi/b6584/"
+                    },
+                    {
+                        "id": 7721,
+                        "name": "观澜",
+                        "url": "http://sz.meituan.com/meishi/b7721/"
+                    },
+                    {
+                        "id": 7722,
+                        "name": "大浪",
+                        "url": "http://sz.meituan.com/meishi/b7722/"
+                    },
+                    {
+                        "id": 9326,
+                        "name": "梅林关",
+                        "url": "http://sz.meituan.com/meishi/b9326/"
+                    },
+                    {
+                        "id": 9327,
+                        "name": "锦绣江南",
+                        "url": "http://sz.meituan.com/meishi/b9327/"
+                    },
+                    {
+                        "id": 36633,
+                        "name": "深圳北站",
+                        "url": "http://sz.meituan.com/meishi/b36633/"
+                    },
+                    {
+                        "id": 38781,
+                        "name": "观澜湖",
+                        "url": "http://sz.meituan.com/meishi/b38781/"
+                    },
+                    {
+                        "id": 40124,
+                        "name": "龙华富士康",
+                        "url": "http://sz.meituan.com/meishi/b40124/"
+                    },
+                    {
+                        "id": 40637,
+                        "name": "清湖地铁站",
+                        "url": "http://sz.meituan.com/meishi/b40637/"
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "name": "盐田区",
+                "url": "http://sz.meituan.com/meishi/b31/",
+                "subAreas": [
+                    {
+                        "id": 31,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b31/"
+                    },
+                    {
+                        "id": 754,
+                        "name": "大小梅沙",
+                        "url": "http://sz.meituan.com/meishi/b754/"
+                    },
+                    {
+                        "id": 755,
+                        "name": "沙头角",
+                        "url": "http://sz.meituan.com/meishi/b755/"
+                    },
+                    {
+                        "id": 8789,
+                        "name": "东部华侨城",
+                        "url": "http://sz.meituan.com/meishi/b8789/"
+                    },
+                    {
+                        "id": 8796,
+                        "name": "盐田海鲜食街",
+                        "url": "http://sz.meituan.com/meishi/b8796/"
+                    },
+                    {
+                        "id": 15349,
+                        "name": "壹海城",
+                        "url": "http://sz.meituan.com/meishi/b15349/"
+                    }
+                ]
+            },
+            {
+                "id": 9535,
+                "name": "大鹏新区",
+                "url": "http://sz.meituan.com/meishi/b9535/",
+                "subAreas": [
+                    {
+                        "id": 9535,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b9535/"
+                    },
+                    {
+                        "id": 13335,
+                        "name": "较场尾/大鹏所城",
+                        "url": "http://sz.meituan.com/meishi/b13335/"
+                    },
+                    {
+                        "id": 13358,
+                        "name": "水头",
+                        "url": "http://sz.meituan.com/meishi/b13358/"
+                    }
+                ]
+            },
+            {
+                "id": 23420,
+                "name": "坪山区",
+                "url": "http://sz.meituan.com/meishi/b23420/",
+                "subAreas": [
+                    {
+                        "id": 23420,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b23420/"
+                    },
+                    {
+                        "id": 6602,
+                        "name": "坪山",
+                        "url": "http://sz.meituan.com/meishi/b6602/"
+                    },
+                    {
+                        "id": 23429,
+                        "name": "坑梓/竹坑",
+                        "url": "http://sz.meituan.com/meishi/b23429/"
+                    },
+                    {
+                        "id": 36636,
+                        "name": "坪山高铁站",
+                        "url": "http://sz.meituan.com/meishi/b36636/"
+                    }
+                ]
+            },
+            {
+                "id": 40033,
+                "name": "光明区",
+                "url": "http://sz.meituan.com/meishi/b40033/",
+                "subAreas": [
+                    {
+                        "id": 40033,
+                        "name": "全部",
+                        "url": "http://sz.meituan.com/meishi/b40033/"
+                    },
+                    {
+                        "id": 7685,
+                        "name": "公明",
+                        "url": "http://sz.meituan.com/meishi/b7685/"
+                    },
+                    {
+                        "id": 17089,
+                        "name": "西田",
+                        "url": "http://sz.meituan.com/meishi/b17089/"
+                    },
+                    {
+                        "id": 17091,
+                        "name": "圳美",
+                        "url": "http://sz.meituan.com/meishi/b17091/"
+                    },
+                    {
+                        "id": 17092,
+                        "name": "田寮/长圳",
+                        "url": "http://sz.meituan.com/meishi/b17092/"
+                    },
+                    {
+                        "id": 37084,
+                        "name": "光明新区",
+                        "url": "http://sz.meituan.com/meishi/b37084/"
+                    }
+                ]
+            }
+        ],
+        "dinnerCountsAttr": [
+            {
+                "id": 152,
+                "name": "单人餐",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:152"
+            },
+            {
+                "id": 153,
+                "name": "双人餐",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:153"
+            },
+            {
+                "id": 154,
+                "name": "3-4人",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:154"
+            },
+            {
+                "id": 155,
+                "name": "5-6人",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:155"
+            },
+            {
+                "id": 156,
+                "name": "7-8人",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:156"
+            },
+            {
+                "id": 157,
+                "name": "9-10人",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:157"
+            },
+            {
+                "id": 158,
+                "name": "10人以上",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:158"
+            },
+            {
+                "id": 159,
+                "name": "其他",
+                "url": "http://sz.meituan.com/meishi/?attrs=65:159"
+            }
+        ],
+        "sortTypesAttr": [
+            {
+                "id": 0,
+                "name": "默认",
+                "url": "http://sz.meituan.com/meishi/"
+            },
+            {
+                "id": 3,
+                "name": "价格",
+                "url": "http://sz.meituan.com/meishi/price_asc/"
+            },
+            {
+                "id": 4,
+                "name": "好评最多",
+                "url": "http://sz.meituan.com/meishi/rating/"
+            }
+        ]
+    },
+    "cateId": 0,
+    "areaId": 0,
+    "attrs": "",
+    "sort": "",
+    "pn": 1,
+    "poiLists": {
+        "totalCounts": 906,
+        "poiInfos": [
+            {
+                "poiId": 1547708,
+                "frontImg": "http://p0.meituan.net/600.600/merchant/9527901fb41cb8d045330298997a8f3e1269307.png",
+                "title": "曼哈顿•情侣•牛扒•西餐厅",
+                "avgScore": 4.1,
+                "allCommentNum": 4579,
+                "address": "海岸城/保利",
+                "avgPrice": 88,
+                "dealList": [
+                    {
+                        "title": "双人半自助牛排套餐",
+                        "price": 258,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "承接生日宴、公司年会、婚宴、谢师宴等自助餐预定（10人起）",
+                        "price": 98,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "商务午餐套餐（1人）",
+                        "price": 58,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "321玫瑰情侣套餐",
+                        "price": 321,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "新桃园酒店（深圳海岸店）+双人自助早餐+双人半自助牛排餐",
+                        "price": 638,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "2022.2.22用爱堆砌情侣套餐",
+                        "price": 520,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元代金券1张，可叠加2张",
+                        "price": 80,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "20元代金券1张",
+                        "price": 1,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "单人半自助套餐，提供免费WiFi",
+                        "price": 138,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "单人铁板牛排套餐",
+                        "price": 69.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "春节温馨家庭套餐（4-6人）",
+                        "price": 568,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 41447222,
+                "frontImg": "https://img.meituan.net/600.600/msmerchant/60aad6e3f41cdd4fe7307055aeb89e63716513.png",
+                "title": "贡茶（龙岗老街店）",
+                "avgScore": 4.1,
+                "allCommentNum": 17466,
+                "address": "双龙/南联",
+                "avgPrice": 13,
+                "dealList": [
+                    {
+                        "title": "饮品8选1，包间免费",
+                        "price": 11.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "饮品5选1，包间免费",
+                        "price": 9.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "饮品8选2，提供免费WiFi",
+                        "price": 21.6,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "30元代金券1张，可叠加2张",
+                        "price": 21,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "饮品7选1，提供免费WiFi",
+                        "price": 12.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "茉莉绿茶（中杯）1份，包间免费",
+                        "price": 3.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "饮品2选1，包间免费",
+                        "price": 6.9,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 3291095,
+                "frontImg": "http://p0.meituan.net/600.600/mogu/da74d23abe4ded09fc397499e4f70083123340.png",
+                "title": "Caten佳田面包蛋糕（松岗天虹店）",
+                "avgScore": 4.1,
+                "allCommentNum": 3120,
+                "address": "松岗",
+                "avgPrice": 17,
+                "dealList": [
+                    {
+                        "title": "蛋糕3选1，约2磅，美味尽享",
+                        "price": 148,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "蛋糕3选1,约2磅，方",
+                        "price": 135,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "蛋糕2选1,约2磅，圆形",
+                        "price": 138,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "海盐爆浆蛋糕1个，约2磅，圆形",
+                        "price": 130,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 27209,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/27209_1652436406191.jpeg",
+                "title": "漓江又一轩（侨城东店）",
+                "avgScore": 4.1,
+                "allCommentNum": 5851,
+                "address": "华侨城",
+                "avgPrice": 77,
+                "dealList": [
+                    {
+                        "title": "100元代金券1张，可叠加5张",
+                        "price": 95,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "超值4人餐，提供免费WiFi",
+                        "price": 258,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "商务工作双人餐，提供免费WiFi",
+                        "price": 118,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "荔枝木面包烤鸡1只",
+                        "price": 99,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "尽兴欢聚餐，建议10人使用",
+                        "price": 899,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 42526359,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/42526359_1652859140440.jpeg",
+                "title": "亿民平安·海鲜自助餐厅（彩田北路店）",
+                "avgScore": 3.9,
+                "allCommentNum": 3525,
+                "address": "市中心/会展中心",
+                "avgPrice": 175,
+                "dealList": [
+                    {
+                        "title": "【520专享】海鲜自助小火锅",
+                        "price": 138,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "香草烤新西兰羊扒单人套餐",
+                        "price": 118,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "幸福平安·中式家庭套餐，建议3-4人使用",
+                        "price": 248,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "西式情侣套餐，包间免费",
+                        "price": 238,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "中式2人双商务套餐，包间免费",
+                        "price": 128,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "招牌澳洲雪花小扒皇单人餐",
+                        "price": 138,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 1450192,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/4b8463bd13705963efce2e0755554538613001.jpg",
+                "title": "皇庭V酒店-VCAFÉ西餐自助餐厅",
+                "avgScore": 4.2,
+                "allCommentNum": 3783,
+                "address": "市中心/会展中心",
+                "avgPrice": 220,
+                "dealList": [
+                    {
+                        "title": "平日自助早餐",
+                        "price": 88,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "深圳皇庭V酒店+双人自助早餐+自助晚餐",
+                        "price": 1299,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "一大一小周末海鲜自助晚餐",
+                        "price": 258,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "一大一小平日海鲜自助晚餐",
+                        "price": 228,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "一大一小周末海鲜自助午餐",
+                        "price": 218,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "长者平日海鲜自助午餐",
+                        "price": 94,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "一大一小平日海鲜自助午餐",
+                        "price": 188,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "10大10小平日海鲜自助午餐",
+                        "price": 1588,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "长者平日海鲜自助晚餐",
+                        "price": 114,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 1779485,
+                "frontImg": "http://p0.meituan.net/600.600/mogu/8d4091639ad24df542281f770c8ef34221969.jpg",
+                "title": "永盛豆浆王快餐（南湾店）",
+                "avgScore": 3.9,
+                "allCommentNum": 3820,
+                "address": "罗岗/求水山",
+                "avgPrice": 23,
+                "dealList": [
+                    {
+                        "title": "20元代金券1张，可叠加",
+                        "price": 18.6,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "酱香鸡煲【单人份】1份",
+                        "price": 26.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "豆浆+油条1份，提供免费WiFi",
+                        "price": 8.5,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "锅仔辣椒炒肉+米饭1份",
+                        "price": 25,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 1576180,
+                "frontImg": "http://p1.meituan.net/600.600/biztone/1576180_1617102427369.jpeg",
+                "title": "宽米砂锅粥（白石洲店）",
+                "avgScore": 3.9,
+                "allCommentNum": 3867,
+                "address": "白石洲",
+                "avgPrice": 93,
+                "dealList": [
+                    {
+                        "title": "100元代金券1张，可叠加2张",
+                        "price": 95,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "豪华必选砂锅粥4人套餐",
+                        "price": 258,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "超值必打卡砂锅粥2人套餐",
+                        "price": 148,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元代金券1张，可叠加5张",
+                        "price": 95,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 1551320,
+                "frontImg": "http://p0.meituan.net/600.600/mogu/fd777a5f2c430da89aa9528ae6d30f5e59748.jpg",
+                "title": "三毛牛肉店（福强店）",
+                "avgScore": 3.8,
+                "allCommentNum": 9057,
+                "address": "新洲/石厦",
+                "avgPrice": 89,
+                "dealList": [
+                    {
+                        "title": "4人套餐，提供免费WiFi",
+                        "price": 258,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "8人套餐，提供免费WiFi",
+                        "price": 398,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "100元代金券1张，可叠加4张",
+                        "price": 88,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "三毛牛肉2人套餐",
+                        "price": 178,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "「宵夜专享」优惠套餐，建议4人使用",
+                        "price": 299,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "秘制牛腩1份，提供免费WiFi",
+                        "price": 18.8,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 6701117,
+                "frontImg": "http://p0.meituan.net/600.600/merchant/a5d52529c2edc13936c07372157c7ffb124499.jpg",
+                "title": "香芋仙（龙华店）",
+                "avgScore": 4.1,
+                "allCommentNum": 7915,
+                "address": "龙华",
+                "avgPrice": 18,
+                "dealList": [
+                    {
+                        "title": "全部菜品20选1，免费WiFi",
+                        "price": 12.7,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "招牌九宫格套餐1份",
+                        "price": 36.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "鲜奶雪耳芋圆糖水1份",
+                        "price": 9.9,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "超值单人套餐，提供免费WiFi",
+                        "price": 26.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "招牌九宫格套餐1份",
+                        "price": 36.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "紫砂锅烤梨1份，包间免费",
+                        "price": 12.8,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "招牌奶茶4选1，提供免费WiFi",
+                        "price": 8.9,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 4369571,
+                "frontImg": "http://p1.meituan.net/600.600/biztone/4369571_1652338499639.jpeg",
+                "title": "隐秀山居酒店·池畔海鲜自助餐厅· Poolside House",
+                "avgScore": 4.5,
+                "allCommentNum": 1221,
+                "address": "龙岗中心城区",
+                "avgPrice": 251,
+                "dealList": [
+                    {
+                        "title": "周末鲜味之旅主题自助晚餐",
+                        "price": 368,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "深圳隐秀山居酒店+双人西式自助早餐+欢迎水果+游泳池+健身房, 可选海鲜自助晚餐/高尔夫挥杆体验券2张",
+                        "price": 1469,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "周末鲜味之旅主题自助午餐",
+                        "price": 268,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "平日鲜味之旅主题自助晚餐",
+                        "price": 328,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "深圳隐秀山居酒店, 可选自助晚餐/帐篷下午茶/高尔夫体验/室内外游泳池/健身房/儿童乐园",
+                        "price": 899,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "平日鲜味之旅主题自助午餐",
+                        "price": 228,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 3288795,
+                "frontImg": "https://img.meituan.net/600.600/msmerchant/65f7fff7beaf9aa38fb4e78dbc7886d764833.jpg",
+                "title": "正能量脆肉鲩火锅",
+                "avgScore": 4.3,
+                "allCommentNum": 2048,
+                "address": "喜荟城/水库",
+                "avgPrice": 79,
+                "dealList": [
+                    {
+                        "title": "4-5人套餐，免费WiFi",
+                        "price": 228,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "午市4-5人套餐",
+                        "price": 228,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "脆肉鲩外带套餐，建议4人使用",
+                        "price": 188,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 41833443,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/41833443_1638339836615.jpeg",
+                "title": "千滋百味自助烤肉火锅（印象城旗舰店）",
+                "avgScore": 3.7,
+                "allCommentNum": 30998,
+                "address": "东门商业圈",
+                "avgPrice": 68,
+                "dealList": [
+                    {
+                        "title": "单人晚市自助餐",
+                        "price": 75,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "（午市）单人自助",
+                        "price": 65,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 606539,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/606539_1648791984973.jpeg",
+                "title": "知味自助餐厅·深圳益田威斯汀酒店",
+                "avgScore": 3.9,
+                "allCommentNum": 655,
+                "address": "益田假日",
+                "avgPrice": 223,
+                "dealList": [
+                    {
+                        "title": "520｜单人海鲜自助晚餐",
+                        "price": 398,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "深圳益田威斯汀酒店+【延迟3点退房】, 可选【2大2小自助早餐】/【2大2小行政晚餐自助】",
+                        "price": 999,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "海鲜自助晚餐（单人，通用）",
+                        "price": 338,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "520｜双人海鲜自助晚餐",
+                        "price": 699,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "美味自助午餐（单人，平日）",
+                        "price": 198,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "家庭自助晚餐（2大2小，通用）",
+                        "price": 888,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "活力自助早餐（单人，周末）",
+                        "price": 99,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "海鲜自助晚餐（四人，周末）",
+                        "price": 1188,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "儿童自助晚餐（单人，通用）",
+                        "price": 168,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "美味自助午餐（单人，通用）",
+                        "price": 228,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "家庭自助午餐（2大2小，通用）",
+                        "price": 598,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            },
+            {
+                "poiId": 2389924,
+                "frontImg": "http://p0.meituan.net/600.600/biztone/2389924_1631089116831.jpeg",
+                "title": "888村上饭局（西丽店）",
+                "avgScore": 3.8,
+                "allCommentNum": 2651,
+                "address": "西丽",
+                "avgPrice": 56,
+                "dealList": [
+                    {
+                        "title": "100元代金券1张，可叠加5张",
+                        "price": 90,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "美味4人餐，提供免费WiFi",
+                        "price": 168,
+                        "soldCounts": 0
+                    },
+                    {
+                        "title": "尝鲜2人餐，提供免费WiFi",
+                        "price": 88,
+                        "soldCounts": 0
+                    }
+                ],
+                "hasAds": false,
+                "adsClickUrl": "",
+                "adsShowUrl": ""
+            }
+        ]
+    },
+    "comHeader": "<link rel=\"stylesheet\" type=\"text/css\" href=\"//s0.meituan.net/bs/fe-web-meituan/5058856/css/com_header.css\"/><header class=\"com-header\"><div class=\"header-bar\"><div class=\"header-content clearfix\"><div class=\"header-bar-position\"><span class=\"header-icon icon-header_location\"></span><span class=\"current-city\">深圳</span><a class=\"change-city\" href=\"https://www.meituan.com/changecity/\">切换城市</a><div class=\"near-citys\">[<a class=\"city-guess\" href=\"https://hk.meituan.com\">香港</a><a class=\"city-guess\" href=\"https://xiegangzhen.meituan.com\">谢岗镇</a><a class=\"city-guess\" href=\"https://huiyang.meituan.com\">惠阳</a>]</div><div class=\"user-entry\"><a class=\"growth-entry user-up\">立即登录</a><a class=\"extra-entry\">注册</a></div></div><nav class=\"header-bar-nav\"><ul class=\"header-nav-first\"><li class=\"has-child\"><a rel=\"nofollow\" href=\"https://www.meituan.com/account/userinfo/\" target=\"_blank\">我的美团<ul class=\"header-nav-my header-nav-second\"><li><a rel=\"nofollow\" href=\"https://www.meituan.com/orders/\" target=\"_blank\">我的订单</a></li><li><a rel=\"nofollow\" href=\"https://www.meituan.com/collections/\" target=\"_blank\">我的收藏</a></li><li><a rel=\"nofollow\" href=\"https://www.meituan.com/vouchers/\" target=\"_blank\">抵用券</a></li><li><a rel=\"nofollow\" href=\"https://www.meituan.com/account/settings\" target=\"_blank\">账户设置</a></li></ul></a></li><li><a href=\"https://i.meituan.com/mobile/down/meituan\" target=\"_blank\">手机APP</a></li><li class=\"has-child\">商家中心<ul class=\"header-nav-merchant header-nav-second\"><li><a rel=\"nofollow\" href=\"http://b.meituan.com/canyin/PC\" target=\"_blank\">美团餐饮商户中心</a></li><li><a rel=\"nofollow\" href=\"https://e.meituan.com/\" target=\"_blank\">登录商家中心</a></li><li><a rel=\"nofollow\" href=\"https://shouyin.meituan.com?utm_source=inner&amp;utm_medium=mtpcsjzx\">美团智能收银</a></li><li><a rel=\"nofollow\" href=\"https://ecom.meituan.com/bizsettle/settle/merchantsSettle?utm_source=mt_C_my\" target=\"_blank\">我想合作</a></li><li><a rel=\"nofollow\" href=\"https://e.meituan.com/mobile/\" target=\"_blank\">手机免费开店</a></li><li><a rel=\"nofollow\" href=\"https://wenjuan.meituan.com/survey/4692346\" target=\"_blank\">到店综合业务招募</a></li><li><a rel=\"nofollow\" href=\"https://wenjuan.meituan.com/survey/4692346\" target=\"_blank\">餐饮合作商招募</a></li><li><a href=\"https://pc.meituan.com?activity_code=mtpcdh\" target=\"_blank\">商家申请开票</a></li><li><a href=\"https://paidui.meituan.com/?activity_code=168_00038141\" target=\"_blank\">免费合作美团排队</a></li></ul></li><li class=\"has-child\">美团规则<ul class=\"header-nav-my header-nav-second\"><li><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/\" target=\"_blank\">规则中心</a></li><li><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules\" target=\"_blank\">规则目录</a></li><li><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/advices\" target=\"_blank\">规则评议院</a></li></ul></li><li class=\"has-child\">网站导航<div class=\"header-nav-site header-nav-second\"><dl class=\"header-jiulv header-nav-third\"><dt>酒店旅游</dt><dd><a href=\"https://www.meituan.com/iflight/\" target=\"_blank\">国际机票</a></dd><dd><a href=\"https://www.meituan.com/train/\" target=\"_blank\">火车票</a></dd><dd><a href=\"https://minsu.meituan.com/\" target=\"_blank\">民宿</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20036/\" target=\"_blank\">经济型酒店</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20037/\" target=\"_blank\">主题酒店</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20038/\" target=\"_blank\">商务酒店</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20039/\" target=\"_blank\">公寓</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20040/\" target=\"_blank\">豪华酒店</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20041/\" target=\"_blank\">客栈</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20042/\" target=\"_blank\">青年旅社</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20043/\" target=\"_blank\">度假酒店</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20044/\" target=\"_blank\">别墅</a></dd><dd><a href=\"https://hotel.meituan.com/shenzhen/c20045/\" target=\"_blank\">农家院</a></dd></dl><dl class=\"header-meishi header-nav-third\"><dt>吃美食</dt><dd><a href=\"https://sz.meituan.com/meishi/c20004/\" target=\"_blank\">烤鱼</a></dd><dd><a href=\"https://sz.meituan.com/meishi/c36/\" target=\"_blank\">特色小吃</a></dd><dd><a href=\"https://sz.meituan.com/meishi/c54/\" target=\"_blank\">烧烤</a></dd><dd><a href=\"https://sz.meituan.com/meishi/c40/\" target=\"_blank\">自助餐</a></dd><dd><a href=\"https://sz.meituan.com/meishi/c17/\" target=\"_blank\">火锅</a></dd><dd><a href=\"https://sz.meituan.com/meishi/c393/\" target=\"_blank\">代金券</a></dd></dl><dl class=\"header-movie header-nav-third\"><dt>看电影</dt><dd><a href=\"https://maoyan.com/films\" target=\"_blank\">热映电影</a></dd><dd><a href=\"https://maoyan.com/cinemas\" target=\"_blank\">热门影院</a></dd><dd><a href=\"https://maoyan.com/board\" target=\"_blank\">热映电影口碑榜</a></dd><dd><a href=\"https://maoyan.com/board/6\" target=\"_blank\">最受期待电影</a></dd><dd><a href=\"https://maoyan.com/board/1\" target=\"_blank\">国内票房榜</a></dd><dd><a href=\"https://maoyan.com/board/2\" target=\"_blank\">北美票房榜</a></dd><dd><a href=\"https://maoyan.com/board/4\" target=\"_blank\">电影排行榜</a></dd></dl><dl class=\"header-app header-nav-third\"><dt>手机应用</dt><dd><a href=\"https://i.meituan.com/mobile/down/meituan\" target=\"_blank\"><img class=\"appicon\" src=\"//s0.meituan.net/bs/fe-web-meituan/2d53095/img/appicons/meituan.png\" title=\"美团app\" alt=\"美团app\"/></a></dd><dd><a href=\"https://waimai.meituan.com/mobile/download/default\" target=\"_blank\"><img class=\"appicon\" src=\"//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/waimai.png\" title=\"外卖app\" alt=\"外卖app\"/></a></dd><dd><a href=\"https://minsu.meituan.com/app/\" target=\"_blank\"><img class=\"appicon\" src=\"https://p0.meituan.net/travelcube/162c3308d9622f6d9cfaa49e60be4dca8573.png\" title=\"民宿app\" alt=\"民宿app\"/></a></dd><dd><a href=\"https://www.dianping.com/events/m/index.htm\" target=\"_blank\"><img class=\"appicon\" src=\"//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/dianping.png\" title=\"点评app\" alt=\"点评app\"/></a></dd><dd><a href=\"https://maoyan.com/app\" target=\"_blank\"><img class=\"appicon\" src=\"//s1.meituan.net/bs/fe-web-meituan/404d350/img/appicons/maoyan.png\" title=\"猫眼app\" alt=\"猫眼app\"/></a></dd></dl></div></li></ul></nav></div></div><div class=\"header-content clearfix\"><div class=\"header-title-module\"><div class=\"header-title\"><a href=\"//sz.meituan.com\"><img src=\"//s0.meituan.net/bs/fe-web-meituan/10afbf1/img/logo.png\" alt=\"美团\"/></a></div><span class=\"header-categorys-cate\">· 美食</span><ul class=\"header-categorys-block\"><li class=\"header-categorys-all\">全部分类</li><nav class=\"header-categorys-list\"><li class=\"clearfix\"><a href=\"https://sz.meituan.com/meishi/\">美食</a></li><li class=\"clearfix\"><a href=\"https://waimai.meituan.com\">外卖</a></li><li class=\"clearfix\"><a href=\"https://hotel.meituan.com\">酒店</a></li><li class=\"clearfix\"><a href=\"https://minsu.meituan.com/?phx_wake_up_type=mtpc_category&amp;phx_wake_up_source=nav\">民宿</a></li><li class=\"clearfix\"><a href=\"https://maoyan.com/films?utm_source=meituanweb\">猫眼电影</a></li><li class=\"clearfix\"><a href=\"https://www.meituan.com/flight/\">机票</a><a href=\"https://www.meituan.com/train/\">火车票</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/xiuxianyule/\">休闲娱乐</a><a href=\"https://sz.meituan.com/xiuxianyule/c10/\">KTV</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/shenghuo/\">生活服务</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/jiankangliren/\">丽人</a><a href=\"https://sz.meituan.com/jiankangliren/c74/\">美发</a><a href=\"https://sz.meituan.com/jiankangliren/c20423/\">医学美容</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/jiehun/\">结婚</a><a href=\"https://sz.meituan.com/jiehun/c20198/\">婚纱摄影</a><a href=\"https://sz.meituan.com/jiehun/c20210/\">婚宴</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/qinzi/\">亲子</a><a href=\"https://sz.meituan.com/qinzi/c20108/\">儿童乐园</a><a href=\"https://sz.meituan.com/qinzi/c20045/\">幼教</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/yundongjianshen/\">运动健身</a><a href=\"https://sz.meituan.com/yundongjianshen/c20253/\">健身中心</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/jiazhuang/\">家装</a><a href=\"https://sz.meituan.com/jiazhuang/c20182/\">建材</a><a href=\"https://sz.meituan.com/jiazhuang/c20771/\">家居</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/jiaoyupeixun/\">学习培训</a><a href=\"https://sz.meituan.com/xuexipeixun/c20287/\">音乐培训</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/yiliao/\">医疗健康</a><a href=\"https://sz.meituan.com/chongwu/c20691/\">宠物</a><a href=\"https://sz.meituan.com/aiche/\">爱车</a></li><li class=\"clearfix\"><a href=\"https://sz.meituan.com/xiuxianyule/c234/\">酒吧</a><a href=\"https://sz.meituan.com/xiuxianyule/c230/\">密室逃脱</a></li></nav></ul></div><div class=\"header-search-module\"><div class=\"header-search-block\"><input class=\"header-search-input\" type=\"text\" placeholder=\"搜索商家或地点\"/><button class=\"header-search-btn\"><span class=\"header-icon icon-search-new\"></span></button></div><div class=\"header-search-suggest\"><div class=\"header-search-noinput\"><div class=\"header-search-history\"><h6>最近搜索</h6><span class=\"header-search-clean\">删除搜索历史</span><ul></ul></div></div><div class=\"header-search-hasinput\"><ul></ul></div></div><div class=\"header-search-hotword\"><a href=\"https://www.meituan.com/s/%E6%AC%A2%E4%B9%90%E6%B8%AF%E6%B9%BE%C2%B7%E6%B9%BE%E5%8C%BA%E4%B9%8B%E5%85%89%E6%91%A9%E5%A4%A9%E8%BD%AE\">欢乐港湾·湾区之光摩天轮</a><a href=\"https://www.meituan.com/s/%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6\">奈雪的茶</a><a href=\"https://www.meituan.com/s/%E7%99%BE%E6%9E%9C%E5%9B%AD\">百果园</a><a href=\"https://www.meituan.com/s/%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7\">深圳欢乐谷</a><a href=\"https://www.meituan.com/s/%E6%B7%B1%E5%9C%B3%E4%B8%80%E4%BA%8C%E9%87%8C%E6%B5%B7%E8%BE%B9%E7%8B%AC%E6%A0%8B%E6%B0%91%E5%AE%BF\">深圳一二里海边独栋民宿</a><a href=\"https://www.meituan.com/s/%E6%B7%B1%E5%9C%B3%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD\">深圳野生动物园</a><a href=\"https://www.meituan.com/s/%E5%B0%8A%E5%AE%9D%E6%AF%94%E8%90%A8\">尊宝比萨</a><a href=\"https://www.meituan.com/s/%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85\">绿茶餐厅</a></div></div></div></header><script>window.comPtData = window.comPtData || {}\nwindow.comPtData['header'] = {\"currentCity\":{\"id\":30,\"name\":\"深圳\",\"pinyin\":\"shenzhen\",\"acronym\":\"sz\",\"onlineTime\":\"1292860800\",\"open\":true,\"rank\":\"A\",\"locationId\":\"440300\",\"position\":{\"lat\":22.5470009,\"lng\":114.0859451},\"divisionStr\":\"\",\"originGeotagID\":0,\"realLocationID\":\"440300\",\"provinceLocationID\":\"440000\",\"gisID\":\"440300\",\"chineseFullName\":\"深圳市\",\"isHot\":1,\"firstChar\":\"S\",\"originCityID\":0,\"recommend\":1,\"newIndex\":1,\"endTime\":\"2000000000\"}}</script><script src=\"//s1.meituan.net/bs/fe-web-meituan/7845e34/js/ie-shim.js\"></script><script src=\"//s1.meituan.net/bs/fe-web-meituan/e9d9492/js/fetch.js\"></script><script src=\"//s0.meituan.net/bs/fe-web-meituan/ffa2cfd/js/common.js\"></script><script src=\"//s0.meituan.net/bs/fe-web-meituan/dda12a9/js/com_header.js\" defer=\"defer\"></script>",
+    "comFooter": "<link rel=\"stylesheet\" type=\"text/css\" href=\"//s0.meituan.net/bs/fe-web-meituan/6df4aa7/css/com_footer.css\"/><footer class=\"com-footer\"><div class=\"footer-content\"><div class=\"footer-link clearfix\"><div class=\"footer-column\"><dl><dt>用户帮助</dt><dd><a rel=\"nofollow\" href=\"http://www.meituan.com/help/selfservice\" target=\"_blank\">申请退款</a></dd><dd><a rel=\"nofollow\" href=\"http://www.meituan.com/help/faq\" target=\"_blank\">常见问题</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules-detail/4\" target=\"_blank\">用户协议</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules-detail/2\" target=\"_blank\">隐私政策</a></dd><dd><a rel=\"nofollow\" href=\"http://www.meituan.com/about/anticheat\" target=\"_blank\">反诈骗公告</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/customer-rights\" target=\"_blank\">消费者权益保障</a></dd></dl><dl><dt>美团服务</dt><dd><a href=\"http://waimai.meituan.com/\" target=\"_blank\">美团外卖</a></dd><dd><a href=\"http://hotel.meituan.com/\" target=\"_blank\">美团酒店</a></dd><dd><a href=\"http://maoyan.com/\" target=\"_blank\">猫眼电影</a></dd><dd><a href=\"https://peisong.meituan.com/\" target=\"_blank\">美团配送</a></dd><dd><a href=\"https://www.mtyun.com/\" target=\"_blank\">美团云</a></dd><dd><a href=\"http://www.dianping.com/\" target=\"_blank\">大众点评</a></dd><dd><a href=\"https://minsu.meituan.com/\" target=\"_blank\">美团民宿</a></dd><dd><a href=\"https://mad.meituan.com\" target=\"_blank\">无人配送</a></dd><dd><a href=\"https://em.meituan.com/?channeltype=01,01,01\" target=\"_blank\">企业用餐、企业用车、企业差旅</a></dd><dd><a href=\"https://developer.meituan.com/\" target=\"_blank\">开放平台</a></dd></dl></div><div class=\"footer-column\"><dl><dt>商家合作</dt><dd><a rel=\"nofollow\" href=\"https://ecom.meituan.com/bizsettle/settle?utm_source=mt_C_my\" target=\"_blank\">美食商家入驻(非外卖)</a></dd><dd><a href=\"https://kd.meituan.com/\" target=\"_blank\">美团外卖开店申请</a></dd><dd><a href=\"https://rms.meituan.com\" target=\"_blank\">美团餐饮系统</a></dd><dd><a rel=\"nofollow\" href=\"http://page.peisong.meituan.com/apply/join\" target=\"_blank\">美团配送合作申请</a></dd><dd><a href=\"https://xue.meituan.com/?from=mtpc\" target=\"_blank\">美团餐饮培训</a></dd><dd><a rel=\"nofollow\" href=\"https://ruzhu.meituan.com/settle/hotel/propaganda.html\" target=\"_blank\">酒店商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://ruzhu.meituan.com/settle/trip/pc.html\" target=\"_blank\">境内度假商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://e.dianping.com/claimcpc/page/index?source=mt\" target=\"_blank\">综合商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://minsu.meituan.com/about/\" target=\"_blank\">美团民宿房东商家入驻</a></dd><dd><a href=\"http://pc.meituan.com/?activity_code=mtpcdb\" target=\"_blank\">商家开票申请</a></dd><dd><a rel=\"nofollow\" href=\"https://h5.youzan.com/v2/feature/nALm22bkFF?dc_ps=2039811416638097413.200001\" target=\"_blank\">美团智能收银机</a></dd><dd><a rel=\"nofollow\" href=\"https://developer.meituan.com/?from=mtpcsw\" target=\"_blank\">美团开放平台</a></dd><dd><a rel=\"nofollow\" href=\"https://recommend-zc.meituan.com/opportunity?channel=1\" target=\"_blank\">美团收单</a></dd><dd><a rel=\"nofollow\" href=\"https://paidui.meituan.com/?activity_code=167_00038050\" target=\"_blank\">免费使用美团排队</a></dd><dd><a rel=\"nofollow\" href=\"https://i.meituan.com/awp/hfe/block/6c4bec785dce/11188/index.html\" target=\"_blank\">快驴进货商家合作</a></dd><dd><a rel=\"nofollow\" href=\"https://shangou.meituan.com/joinin\" target=\"_blank\">美团闪购商家入驻</a></dd><dd><a rel=\"nofollow\" href=\"https://123.meituan.com?source=mtwpc\" target=\"_blank\">合作/招聘</a></dd></dl></div><div class=\"footer-column\"><dl><dt>合作商招募</dt><dd><a rel=\"nofollow\" href=\"https://mfe.waimai.meituan.com/mfepro/client-h5/#/login\" target=\"_blank\">美团外卖合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://daili.meituan.com/?comeFrom=mtwebBusinesscoopd\" target=\"_blank\">到店餐饮合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://daili.meituan.com/dz-zhaoshang\" target=\"_blank\">到店综合业务合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"http://union.meituan.com/\" target=\"_blank\">美团联盟</a></dd><dd><a rel=\"nofollow\" href=\"https://wenjuan.meituan.com/survey/4332711\" target=\"_blank\">美团收银招募线上分销商</a></dd><dd><a rel=\"nofollow\" href=\"https://agent.meituan.com/zhaoshang?partnerSource=3\" target=\"_blank\">美团收银合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://zf.meituan.com?partnerSource=3\" target=\"_blank\">美团收单合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://i.meituan.com/awp/hfe/block/index.html?cube_h=2b7f0b4afbea&amp;cube_i=97656\" target=\"_blank\">美团充电宝合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://managergrocery.meituan.com/mall-fe-agent-activity/clues-collect.html?page_from=30\" target=\"_blank\">美团优选渠道合作商招募</a></dd><dd><a rel=\"nofollow\" href=\"https://vss.baobaoaichi.cn/\" target=\"_blank\">美团买菜合作商招募</a></dd></dl><dl><dt>美团规则</dt><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/\" target=\"_blank\">规则中心</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/rules\" target=\"_blank\">规则目录</a></dd><dd><a rel=\"nofollow\" href=\"https://rules-center.meituan.com/advices\" target=\"_blank\">规则评议院</a></dd></dl></div><div class=\"footer-column\"><dl><dt>关注美团</dt><dd><a rel=\"nofollow\" href=\"http://weibo.com/meituan\" target=\"_blank\">美团新浪微博</a></dd></dl><dl><dt>公司信息</dt><dd><a rel=\"nofollow\" href=\"https://about.meituan.com/\" target=\"_blank\">关于我们</a></dd><dd><a rel=\"nofollow\" href=\"https://about.meituan.com/investor.html\" target=\"_blank\">投资者关系</a></dd><dd><a rel=\"nofollow\" href=\"http://zhaopin.meituan.com/\" target=\"_blank\">加入我们</a></dd><dd><a rel=\"nofollow\" href=\"https://dpapp-appeal.meituan.com/#/shopCreditRegulationPC\" target=\"_blank\">商户诚信公约及管理办法</a></dd><dd><a rel=\"nofollow\" href=\"https://i.meituan.com/awp/ffe/insurance-website/index.html#/\" target=\"_blank\">保险经纪资质</a></dd></dl><dl><dt>廉正举报</dt><dd><a rel=\"nofollow\" href=\"https://jubao.meituan.com/app/home?source=1\" target=\"_self\">廉正举报平台</a></dd></dl><dl><dt>知识产权</dt><dd><a rel=\"nofollow\" href=\"https://ipr.meituan.com?source=1\" target=\"_blank\">知识产权维权平台</a></dd></dl></div><div class=\"footer-column\"><dl><dt>消费者服务热线</dt><dd>外卖消费者：<a rel=\"nofollow\" href=\"tel:10109777\" target=\"_blank\">10109777</a></dd><dd>猫眼消费者：<a rel=\"nofollow\" href=\"tel:10105335\" target=\"_blank\">10105335</a></dd><dd>其他消费者：<a rel=\"nofollow\" href=\"tel:10107888\" target=\"_blank\">10107888</a></dd></dl><dl><dt>商家服务热线</dt><dd>外卖&amp;餐饮商家：<a rel=\"nofollow\" href=\"tel:10105557\" target=\"_blank\">10105557</a></dd><dd>休闲娱乐、丽人、ktv、教育、结婚、亲子、家装等商家：<a rel=\"nofollow\" href=\"tel:10100107\" target=\"_blank\">10100107</a></dd></dl><dl><dt>投诉举报专区</dt><dd>违法和不良信息举报电话：<a rel=\"nofollow\" href=\"tel:4006018900\" target=\"_blank\">4006018900</a></dd><dd>举报邮箱：<a rel=\"nofollow\" href=\"mailto:tousujubao@meituan.com\" target=\"_self\">tousujubao@meituan.com</a></dd><dd><a rel=\"nofollow\" href=\"https://www.12377.cn/\" target=\"_blank\">网上有害信息举报</a></dd><dd>注：<a rel=\"nofollow\" href=\"\" target=\"\">以上渠道均可投诉举报涉未成年人的违法和不良信息</a></dd></dl><dl><dt><a rel=\"nofollow\" href=\"https://ecom.meituan.com/bizsettle/settle/merchantsSettle\" target=\"_blank\">商家自助入驻美团入口</a></dt></dl><dl><dt><a rel=\"nofollow\" href=\"https://isp.meituan.com/signup\" target=\"_blank\">供应商注册入口</a></dt></dl></div></div><div class=\"footer-copyright clearfix\"><div class=\"footer-copyright-left\"><p>©美团网团购 meituan.com<a href=\"https://beian.miit.gov.cn/\" style=\"margin-left: 20px;\">京ICP证070791号</a><a href=\"https://beian.miit.gov.cn\">京ICP备10211739号-1</a></p><p><a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/comment/license/tv\" target=\"_blank\">广播电视节目制作经营许可证（京）字第03889号</a></p><p><a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/medicalcertificate\" target=\"_blank\">互联网药品信息服务资格证 (京)-经营性-2017-0014</a></p><p><a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/medicalequipment\" target=\"_blank\">医疗器械网络交易服务第三方平台备案：（京）网械平台备字[2018]第00004号</a></p><p> <a href=\"https://portal-portm.meituan.com/webpc/protocolmanage/edilicense\" target=\"_blank\">平台EDI许可证</a></p></div><div class=\"footer-copyright-right\"><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002052\" target=\"_blank\"><img class=\"beianicon\" src=\"https://p0.meituan.net/travelcube/d0289dc0a46fc5b15b3363ffa78cf6c719256.png\"/>京公网安备 11000002002052号</a><div class=\"footer-copyright-cert\"><a class=\"bus-license\" href=\"https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do?showType=p&amp;serial=11000020190617184241000003572274-SAIC_SHOW_10002020190618102726868&amp;signData=MEQCIMo7nivRikGQc6WsX/jx0IcZ46irhkjszdhhg4kv17uBAiD78duadRu3XX5WyuE+duSrhPmdVUFgr7cN1iV/WSv4uw==\" title=\"营业执照\" target=\"_blank\"><img src=\"https://p1.meituan.net/travelcube/3e7f8a17e55bace814166b667618b459366061.png@76h_76w_2e\"/><p>北京三快科技有限公司</p></a><a class=\"sp-ft sp-ft--record\" href=\"https://beian.miit.gov.cn/?spm=a21bo.21814703.1997523009.40.5af911d9saMbGy#/Integrated/index\" title=\"备案信息\" target=\"_blank\">备案信息</a><a class=\"sp-ft sp-ft--12315\" href=\"http://www.12315.cn/\" title=\"12315消费争议\" target=\"_blank\">12315消费争议</a></div></div></div></div></footer>"
+}
